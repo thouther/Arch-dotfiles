@@ -1,0 +1,14 @@
+session_name: daily
+windows:
+- focus: 'true'
+  layout: 5d58,177x60,0,0{80x60,0,0,1,96x60,81,0[96x27,81,0,2,96x10,81,28,4,96x21,81,39,5]}
+  options:
+    automatic-rename: 'off'
+  panes:
+  - sudo 
+  - focus: 'true'
+    shell_command: ncmpcpp
+  - tty-clock
+  - htop
+  start_directory: /home/thouther
+  window_name: zsh

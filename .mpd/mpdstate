@@ -1,0 +1,1667 @@
+sw_volume: 96
+audio_device_state:1:my_fifo
+audio_device_state:1:Alsa for audio sound card
+audio_device_state:1:My Pulse Output
+state: pause
+current: 19
+time: 2.000000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+song_begin: /home/thouther/Music/carpenter-brut/leather-teeth/01 - leather-teeth.mp3
+Time: 232.986000
+Artist: Carpenter Brut
+Title: Leather Teeth
+Album: LEATHER TEETH
+Track: 1
+Date: 2018
+mtime: 1557151819
+song_end
+song_begin: /home/thouther/Music/carpenter-brut/leather-teeth/02 - cheerleader-effect.mp3
+Time: 217.808000
+Artist: Carpenter Brut
+Title: Cheerleader Effect
+Album: LEATHER TEETH
+Track: 2
+Date: 2018
+mtime: 1557151876
+song_end
+song_begin: /home/thouther/Music/carpenter-brut/leather-teeth/03 - sunday-lunch.mp3
+Time: 195.291000
+Artist: Carpenter Brut
+Title: Sunday Lunch
+Album: LEATHER TEETH
+Track: 3
+Date: 2018
+mtime: 1557151907
+song_end
+song_begin: /home/thouther/Music/carpenter-brut/leather-teeth/04 - monday-hunt.mp3
+Time: 175.986000
+Artist: Carpenter Brut
+Title: Monday Hunt
+Album: LEATHER TEETH
+Track: 4
+Date: 2018
+mtime: 1557151946
+song_end
+song_begin: /home/thouther/Music/carpenter-brut/leather-teeth/05 - inferno-galore.mp3
+Time: 229.485000
+Artist: Carpenter Brut
+Title: Inferno Galore
+Album: LEATHER TEETH
+Track: 5
+Date: 2018
+mtime: 1557151989
+song_end
+song_begin: /home/thouther/Music/carpenter-brut/leather-teeth/06 - beware-the-beast.mp3
+Time: 225.645000
+Artist: Carpenter Brut
+Title: Beware The Beast
+Album: LEATHER TEETH
+Track: 6
+Date: 2018
+mtime: 1557152040
+song_end
+song_begin: /home/thouther/Music/carpenter-brut/leather-teeth/07 - hairspray-hurricane.mp3
+Time: 331.546000
+Artist: Carpenter Brut
+Title: Hairspray Hurricane
+Album: LEATHER TEETH
+Track: 7
+Date: 2018
+mtime: 1557152115
+song_end
+song_begin: /home/thouther/Music/carpenter-brut/leather-teeth/08 - end-titles.mp3
+Time: 323.213000
+Artist: Carpenter Brut
+Title: End Titles
+Album: LEATHER TEETH
+Track: 8
+Date: 2018
+mtime: 1557152440
+song_end
+song_begin: /home/thouther/Music/carpenter-brut/trilogy/01 - escape-from-midwich-valley.mp3
+Time: 403.722000
+Artist: Carpenter Brut
+Title: Escape From Midwich Valley
+Album: TRILOGY
+Track: 1
+Date: 2015
+mtime: 1557152748
+song_end
+song_begin: /home/thouther/Music/carpenter-brut/trilogy/02 - disco-zombi-italia.mp3
+Time: 317.466000
+Artist: Carpenter Brut
+Title: Disco Zombi Italia
+Album: TRILOGY
+Track: 2
+Date: 2015
+mtime: 1557152802
+song_end
+song_begin: /home/thouther/Music/carpenter-brut/trilogy/03 - la-venice-bitch-80s.mp3
+Time: 251.742000
+Artist: Carpenter Brut
+Title: L.A Venice Bitch 80's
+Album: TRILOGY
+Track: 3
+Date: 2015
+mtime: 1557152808
+song_end
+song_begin: /home/thouther/Music/carpenter-brut/trilogy/04 - wake-up-the-president.mp3
+Time: 256.522000
+Artist: Carpenter Brut
+Title: Wake Up The President
+Album: TRILOGY
+Track: 4
+Date: 2015
+mtime: 1557152814
+song_end
+song_begin: /home/thouther/Music/carpenter-brut/trilogy/05 - 347-midnight-demons.mp3
+Time: 254.223000
+Artist: Carpenter Brut
+Title: 347 Midnight Demons
+Album: TRILOGY
+Track: 5
+Date: 2015
+mtime: 1557152819
+song_end
+song_begin: /home/thouther/Music/carpenter-brut/trilogy/06 - le-perv.mp3
+Time: 256.052000
+Artist: Carpenter Brut
+Title: Le Perv
+Album: TRILOGY
+Track: 6
+Date: 2015
+mtime: 1557152824
+song_end
+song_begin: /home/thouther/Music/carpenter-brut/trilogy/07 - roller-mobster.mp3
+Time: 214.386000
+Artist: Carpenter Brut
+Title: Roller Mobster
+Album: TRILOGY
+Track: 7
+Date: 2015
+mtime: 1557152828
+song_end
+song_begin: /home/thouther/Music/carpenter-brut/trilogy/08 - meet-matt-stryker.mp3
+Time: 245.890000
+Artist: Carpenter Brut
+Title: Meet Matt Stryker
+Album: TRILOGY
+Track: 8
+Date: 2015
+mtime: 1557152833
+song_end
+song_begin: /home/thouther/Music/carpenter-brut/trilogy/09 - obituary.mp3
+Time: 267.311000
+Artist: Carpenter Brut
+Title: Obituary
+Album: TRILOGY
+Track: 9
+Date: 2015
+mtime: 1557152840
+song_end
+song_begin: /home/thouther/Music/carpenter-brut/trilogy/10 - looking-for-tracy-tzu.mp3
+Time: 257.644000
+Artist: Carpenter Brut
+Title: Looking For Tracy Tzu
+Album: TRILOGY
+Track: 10
+Date: 2015
+mtime: 1557152847
+song_end
+song_begin: /home/thouther/Music/carpenter-brut/trilogy/11 - sexkiller-on-the-loose.mp3
+Time: 223.007000
+Artist: Carpenter Brut
+Title: Sexkiller On The Loose
+Album: TRILOGY
+Track: 11
+Date: 2015
+mtime: 1557152852
+song_end
+song_begin: /home/thouther/Music/carpenter-brut/trilogy/12 - hangem-all.mp3
+Time: 337.475000
+Artist: Carpenter Brut
+Title: Hang'Em All
+Album: TRILOGY
+Track: 12
+Date: 2015
+mtime: 1557152859
+song_end
+song_begin: /home/thouther/Music/carpenter-brut/trilogy/13 - division-ruine.mp3
+Time: 215.066000
+Artist: Carpenter Brut
+Title: Division Ruine
+Album: TRILOGY
+Track: 13
+Date: 2015
+mtime: 1557152864
+song_end
+song_begin: /home/thouther/Music/carpenter-brut/trilogy/14 - paradise-warfare.mp3
+Time: 254.850000
+Artist: Carpenter Brut
+Title: Paradise Warfare
+Album: TRILOGY
+Track: 14
+Date: 2015
+mtime: 1557152869
+song_end
+song_begin: /home/thouther/Music/carpenter-brut/trilogy/15 - run-sally-run.mp3
+Time: 287.843000
+Artist: Carpenter Brut
+Title: Run, Sally, Run!
+Album: TRILOGY
+Track: 15
+Date: 2015
+mtime: 1557152874
+song_end
+song_begin: /home/thouther/Music/carpenter-brut/trilogy/16 - turbo-killer.mp3
+Time: 209.005000
+Artist: Carpenter Brut
+Title: Turbo Killer
+Album: TRILOGY
+Track: 16
+Date: 2015
+mtime: 1557152877
+song_end
+song_begin: /home/thouther/Music/carpenter-brut/trilogy/17 - anarchy-road.mp3
+Time: 213.133000
+Artist: Carpenter Brut
+Title: Anarchy Road
+Album: TRILOGY
+Track: 17
+Date: 2015
+mtime: 1557152881
+song_end
+song_begin: /home/thouther/Music/carpenter-brut/trilogy/18 - invasion-ad.mp3
+Time: 400.378000
+Artist: Carpenter Brut
+Title: Invasion A.D
+Album: TRILOGY
+Track: 18
+Date: 2015
+mtime: 1557152887
+song_end
+song_begin: /home/thouther/Music/dana-jean-phoenix/le-mirage/01 - le-mirage.mp3
+Time: 352.026000
+Artist: Dana Jean Phoenix
+Title: Le Mirage
+Album: Le Mirage
+Track: 1
+Date: 2016
+mtime: 1557155405
+song_end
+song_begin: /home/thouther/Music/dana-jean-phoenix/le-mirage/02 - in-this-world.mp3
+Time: 208.222000
+Artist: Dana Jean Phoenix
+Title: In This World
+Album: Le Mirage
+Track: 2
+Date: 2016
+mtime: 1557155438
+song_end
+song_begin: /home/thouther/Music/dana-jean-phoenix/le-mirage/03 - past-tense.mp3
+Time: 209.632000
+Artist: Dana Jean Phoenix
+Title: Past Tense
+Album: Le Mirage
+Track: 3
+Date: 2016
+mtime: 1557156125
+song_end
+song_begin: /home/thouther/Music/dana-jean-phoenix/le-mirage/04 - inside-of-view.mp3
+Time: 210.050000
+Artist: Dana Jean Phoenix
+Title: Inside Of View
+Album: Le Mirage
+Track: 4
+Date: 2016
+mtime: 1557156134
+song_end
+song_begin: /home/thouther/Music/dana-jean-phoenix/le-mirage/05 - my-delorean-lazer-rays.mp3
+Time: 259.213000
+Artist: Dana Jean Phoenix
+Title: My DeLorean (Lazer Rays)
+Album: Le Mirage
+Track: 5
+Date: 2016
+mtime: 1557156142
+song_end
+song_begin: /home/thouther/Music/dana-jean-phoenix/le-mirage/06 - modern-fairytale.mp3
+Time: 199.183000
+Artist: Dana Jean Phoenix
+Title: Modern Fairytale
+Album: Le Mirage
+Track: 6
+Date: 2016
+mtime: 1557156148
+song_end
+song_begin: /home/thouther/Music/dana-jean-phoenix/le-mirage/07 - beating-machine.mp3
+Time: 190.772000
+Artist: Dana Jean Phoenix
+Title: Beating Machine
+Album: Le Mirage
+Track: 7
+Date: 2016
+mtime: 1557156153
+song_end
+song_begin: /home/thouther/Music/dana-jean-phoenix/le-mirage/08 - running-wild.mp3
+Time: 197.877000
+Artist: Dana Jean Phoenix
+Title: Running Wild
+Album: Le Mirage
+Track: 8
+Date: 2016
+mtime: 1557156159
+song_end
+song_begin: /home/thouther/Music/dana-jean-phoenix/le-mirage/09 - in-borrowed-times.mp3
+Time: 234.657000
+Artist: Dana Jean Phoenix
+Title: In Borrowed Times
+Album: Le Mirage
+Track: 9
+Date: 2016
+mtime: 1557156165
+song_end
+song_begin: /home/thouther/Music/dana-jean-phoenix/le-mirage/10 - komplicated.mp3
+Time: 282.044000
+Artist: Dana Jean Phoenix
+Title: Komplicated
+Album: Le Mirage
+Track: 10
+Date: 2016
+mtime: 1557156171
+song_end
+song_begin: /home/thouther/Music/dana-jean-phoenix/le-mirage/11 - get-it-tonight.mp3
+Time: 275.539000
+Artist: Dana Jean Phoenix
+Title: Get It Tonight
+Album: Le Mirage
+Track: 11
+Date: 2016
+mtime: 1557156178
+song_end
+song_begin: /home/thouther/Music/dana-jean-phoenix/le-mirage/12 - real-deal.mp3
+Time: 186.070000
+Artist: Dana Jean Phoenix
+Title: Real Deal
+Album: Le Mirage
+Track: 12
+Date: 2016
+mtime: 1557156184
+song_end
+song_begin: /home/thouther/Music/dana-jean-phoenix/le-mirage/13 - in-this-world-remix-bandcamp-bonus.mp3
+Time: 232.542000
+Artist: Dana Jean Phoenix
+Title: In This World Remix (Bandcamp Bonus)
+Album: Le Mirage
+Track: 13
+Date: 2016
+mtime: 1557156193
+song_end
+song_begin: /home/thouther/Music/dradal pissup/Beyond Synth - 27 - Droid Bishop Beyond The Blue.mp3
+Time: 3829.864000
+Artist: Beyond Synth
+Title: Beyond Synth - 27 - Droid Bishop Beyond The Blue
+Album: dradal pissup
+Track: 27
+Date: 2014-09-23T15
+Genre: synthwave
+mtime: 1411455669
+song_end
+song_begin: /home/thouther/Music/dradal pissup/Boredom on a droid with a litte freestyle at the end.mp3
+Time: 227.500000
+Artist: Ryan McGroarty
+Title: Boredom on a droid with a litte freestyle at the end
+Album: dradal pissup
+Date: 2012-05-19T06
+Genre: Rap
+mtime: 1337380223
+song_end
+song_begin: /home/thouther/Music/dradal pissup/Days Of The Running Man.mp3
+Time: 341.995000
+Artist: Droid Bishop
+Title: Days Of The Running Man
+Album: dradal pissup
+Date: 2013-11-20T23
+Genre: Synthwave
+mtime: 1384960811
+song_end
+song_begin: /home/thouther/Music/dradal pissup/Droid Bishop - In Your Love (Dream Fiend Remix).mp3
+Time: 280.790000
+Artist: Dream Fiend
+Title: Droid Bishop - In Your Love (Dream Fiend Remix)
+Album: dradal pissup
+Date: 2015-07-08T00
+Genre: Nu Disco
+mtime: 1436285050
+song_end
+song_begin: /home/thouther/Music/dradal pissup/Droid Bishop - In Your Love (September 87 Remix).mp3
+Time: 417.358000
+Artist: ＳＥＰＴＥＭＢＥＲ ８７
+Title: Droid Bishop - In Your Love (September 87 Remix)
+Album: dradal pissup
+Date: 2015-07-31T11
+Genre: synthwave
+mtime: 1438312794
+song_end
+song_begin: /home/thouther/Music/dradal pissup/Droid Bishop - In Your Love (Tommy '86 Remix)  Media Blackout MBO043.mp3
+Time: 255.973000
+Artist: ▲ MB ▲
+Title: Droid Bishop - In Your Love (Tommy '86 Remix) | Media Blackout MBO043
+Album: dradal pissup
+Date: 2015-05-24T23
+Genre: droid bishop
+mtime: 1432482701
+song_end
+song_begin: /home/thouther/Music/dradal pissup/Droid Bishop feat. Sam Sparro – “Out of My Mind” [NoisePorn Exclusive].mp3
+Time: 273.580000
+Artist: Noiseporn
+Title: Droid Bishop feat. Sam Sparro – “Out of My Mind” [NoisePorn Exclusive]
+Album: dradal pissup
+Date: 2014-09-02T15
+Genre: Droid Bishop
+mtime: 1409644369
+song_end
+song_begin: /home/thouther/Music/dradal pissup/In My DeLorean.mp3
+Time: 278.804000
+Artist: Droid Bishop
+Title: In My DeLorean
+Album: dradal pissup
+Date: 2014-09-12T19
+Genre: synthwave
+mtime: 1410520892
+song_end
+song_begin: /home/thouther/Music/dradal pissup/In Your Love.mp3
+Time: 297.900000
+Artist: Droid Bishop
+Title: In Your Love
+Album: dradal pissup
+Date: 2014-09-12T19
+Genre: synthwave
+mtime: 1410520959
+song_end
+song_begin: /home/thouther/Music/dradal pissup/Light Years - Droid Bishop.mp3
+Time: 256.470000
+Artist: Folistar
+Title: Light Years - Droid Bishop
+Album: dradal pissup
+Date: 2014-06-11T10
+Genre: Electro
+mtime: 1402454421
+song_end
+song_begin: /home/thouther/Music/dradal pissup/Moon Dancer.mp3
+Time: 365.453000
+Artist: Droid Bishop
+Title: Moon Dancer
+Album: dradal pissup
+Date: 2014-09-12T19
+Genre: synthwave
+mtime: 1410520902
+song_end
+song_begin: /home/thouther/Music/dradal pissup/Nightland.mp3
+Time: 361.168000
+Artist: Droid Bishop
+Title: Nightland
+Album: dradal pissup
+Date: 2013-04-30T10
+Genre: synthwave/electronic
+mtime: 1367289776
+song_end
+song_begin: /home/thouther/Music/dradal pissup/Through The Universe.mp3
+Time: 247.693000
+Artist: Droid Bishop
+Title: Through The Universe
+Album: dradal pissup
+Date: 2014-09-12T19
+Genre: synthwave
+mtime: 1410520870
+song_end
+song_begin: /home/thouther/Music/dradal pissup/Vanisher.mp3
+Time: 236.382000
+Artist: Droid Bishop
+Title: Vanisher
+Album: dradal pissup
+Date: 2014-09-12T19
+Genre: synthwave
+mtime: 1410520935
+song_end
+song_begin: /home/thouther/Music/Droid Bishop - Beyond The Blue/Droid Bishop - Beyond The Blue - 01 Vanisher.mp3
+Time: 236.355000
+Artist: Droid Bishop
+AlbumArtist: Droid Bishop
+Title: Vanisher
+Album: Beyond The Blue
+Track: 1
+Date: 2014
+mtime: 1412081355
+song_end
+song_begin: /home/thouther/Music/Droid Bishop - Beyond The Blue/Droid Bishop - Beyond The Blue - 02 Out Of My Mind (Ft. Sam Sparro).mp3
+Time: 273.580000
+Artist: Droid Bishop
+AlbumArtist: Droid Bishop
+Title: Out Of My Mind (Ft. Sam Sparro)
+Album: Beyond The Blue
+Track: 2
+Date: 2014
+mtime: 1412081355
+song_end
+song_begin: /home/thouther/Music/Droid Bishop - Beyond The Blue/Droid Bishop - Beyond The Blue - 03 Beyond The Blue.mp3
+Time: 291.369000
+Artist: Droid Bishop
+AlbumArtist: Droid Bishop
+Title: Beyond The Blue
+Album: Beyond The Blue
+Track: 3
+Date: 2014
+mtime: 1412081355
+song_end
+song_begin: /home/thouther/Music/Droid Bishop - Beyond The Blue/Droid Bishop - Beyond The Blue - 04 Letter To Earth.mp3
+Time: 61.100000
+Artist: Droid Bishop
+AlbumArtist: Droid Bishop
+Title: Letter To Earth
+Album: Beyond The Blue
+Track: 4
+Date: 2014
+mtime: 1412081355
+song_end
+song_begin: /home/thouther/Music/Droid Bishop - Beyond The Blue/Droid Bishop - Beyond The Blue - 05 Moon Dancer.mp3
+Time: 365.426000
+Artist: Droid Bishop
+AlbumArtist: Droid Bishop
+Title: Moon Dancer
+Album: Beyond The Blue
+Track: 5
+Date: 2014
+mtime: 1412081355
+song_end
+song_begin: /home/thouther/Music/Droid Bishop - Beyond The Blue/Droid Bishop - Beyond The Blue - 06 In My DeLorean.mp3
+Time: 278.778000
+Artist: Droid Bishop
+AlbumArtist: Droid Bishop
+Title: In My DeLorean
+Album: Beyond The Blue
+Track: 6
+Date: 2014
+mtime: 1412081355
+song_end
+song_begin: /home/thouther/Music/Droid Bishop - Beyond The Blue/Droid Bishop - Beyond The Blue - 07 In Your Love.mp3
+Time: 297.848000
+Artist: Droid Bishop
+AlbumArtist: Droid Bishop
+Title: In Your Love
+Album: Beyond The Blue
+Track: 7
+Date: 2014
+mtime: 1412081355
+song_end
+song_begin: /home/thouther/Music/Droid Bishop - Beyond The Blue/Droid Bishop - Beyond The Blue - 08 The Infinite Dream.mp3
+Time: 291.186000
+Artist: Droid Bishop
+AlbumArtist: Droid Bishop
+Title: The Infinite Dream
+Album: Beyond The Blue
+Track: 8
+Date: 2014
+mtime: 1412081355
+song_end
+song_begin: /home/thouther/Music/Droid Bishop - Beyond The Blue/Droid Bishop - Beyond The Blue - 09 Born Of The Stars.mp3
+Time: 229.851000
+Artist: Droid Bishop
+AlbumArtist: Droid Bishop
+Title: Born Of The Stars
+Album: Beyond The Blue
+Track: 9
+Date: 2014
+mtime: 1412081355
+song_end
+song_begin: /home/thouther/Music/Droid Bishop - Beyond The Blue/Droid Bishop - Beyond The Blue - 10 Through The Universe.mp3
+Time: 247.666000
+Artist: Droid Bishop
+AlbumArtist: Droid Bishop
+Title: Through The Universe
+Album: Beyond The Blue
+Track: 10
+Date: 2014
+mtime: 1412081355
+song_end
+song_begin: /home/thouther/Music/Droid Bishop - Beyond The Blue/Droid Bishop - Beyond The Blue - 11 Human.mp3
+Time: 290.951000
+Artist: Droid Bishop
+AlbumArtist: Droid Bishop
+Title: Human
+Album: Beyond The Blue
+Track: 11
+Date: 2014
+mtime: 1412081355
+song_end
+song_begin: /home/thouther/Music/Droid Bishop - Beyond The Blue/Droid Bishop - Beyond The Blue - 12 In The End.mp3
+Time: 63.320000
+Artist: Droid Bishop
+AlbumArtist: Droid Bishop
+Title: In The End
+Album: Beyond The Blue
+Track: 12
+Date: 2014
+mtime: 1412081356
+song_end
+song_begin: /home/thouther/Music/electro-freaks/efp-vol-06-more-electro-than-electro/01 - painting-the-prototype-danger-run.mp3
+Time: 367.542000
+Artist: Electro Freaks
+Title: Painting the Prototype - Danger Run
+Album: EFP Vol 06: More Electro Than Electro
+Track: 1
+Date: 2013
+mtime: 1557154387
+song_end
+song_begin: /home/thouther/Music/electro-freaks/efp-vol-06-more-electro-than-electro/02 - blind-rock-it-steady.mp3
+Time: 303.777000
+Artist: Electro Freaks
+Title: bLiNd - Rock it Steady
+Album: EFP Vol 06: More Electro Than Electro
+Track: 2
+Date: 2013
+mtime: 1557154421
+song_end
+song_begin: /home/thouther/Music/electro-freaks/efp-vol-06-more-electro-than-electro/03 - zircon-across-the-ocean.mp3
+Time: 206.811000
+Artist: Electro Freaks
+Title: zircon - Across the Ocean
+Album: EFP Vol 06: More Electro Than Electro
+Track: 3
+Date: 2013
+mtime: 1557154444
+song_end
+song_begin: /home/thouther/Music/electro-freaks/efp-vol-06-more-electro-than-electro/04 - leitbur-i-will-always-be-your-constant.mp3
+Time: 268.355000
+Artist: Electro Freaks
+Title: Leitbur - I Will Always Be Your Constant
+Album: EFP Vol 06: More Electro Than Electro
+Track: 4
+Date: 2013
+mtime: 1557154467
+song_end
+song_begin: /home/thouther/Music/electro-freaks/efp-vol-06-more-electro-than-electro/05 - mpegasus-homespace.mp3
+Time: 212.793000
+Artist: Electro Freaks
+Title: .mpegasus - Homespace
+Album: EFP Vol 06: More Electro Than Electro
+Track: 5
+Date: 2013
+mtime: 1557154504
+song_end
+song_begin: /home/thouther/Music/electro-freaks/efp-vol-06-more-electro-than-electro/06 - dm-ashura-vs-sanxion7-ethereality.mp3
+Time: 424.933000
+Artist: Electro Freaks
+Title: DM Ashura vs. Sanxion7 - Ethereality
+Album: EFP Vol 06: More Electro Than Electro
+Track: 6
+Date: 2013
+mtime: 1557154556
+song_end
+song_begin: /home/thouther/Music/electro-freaks/efp-vol-06-more-electro-than-electro/07 - djjd-intergalactic-arsenal.mp3
+Time: 288.052000
+Artist: Electro Freaks
+Title: DjjD - Intergalactic Arsenal
+Album: EFP Vol 06: More Electro Than Electro
+Track: 7
+Date: 2013
+mtime: 1557154579
+song_end
+song_begin: /home/thouther/Music/electro-freaks/efp-vol-06-more-electro-than-electro/08 - vincenzo-salvia-towards-the-light.mp3
+Time: 217.077000
+Artist: Electro Freaks
+Title: Vincenzo Salvia - Towards the Light
+Album: EFP Vol 06: More Electro Than Electro
+Track: 8
+Date: 2013
+mtime: 1557154605
+song_end
+song_begin: /home/thouther/Music/electro-freaks/efp-vol-06-more-electro-than-electro/09 - bearcraft-ghost.mp3
+Time: 182.987000
+Artist: Electro Freaks
+Title: Bearcraft - Ghost
+Album: EFP Vol 06: More Electro Than Electro
+Track: 9
+Date: 2013
+mtime: 1557154627
+song_end
+song_begin: /home/thouther/Music/electro-freaks/efp-vol-06-more-electro-than-electro/10 - decktonic-this-love-is-faux-real.mp3
+Time: 273.031000
+Artist: Electro Freaks
+Title: Decktonic - This Love Is Faux Real
+Album: EFP Vol 06: More Electro Than Electro
+Track: 10
+Date: 2013
+mtime: 1557154647
+song_end
+song_begin: /home/thouther/Music/electro-freaks/efp-vol-06-more-electro-than-electro/11 - odd-year-the-reverb-junkie-dont-say-it-didnt-hurt-club-mix.mp3
+Time: 257.619000
+Artist: Electro Freaks
+Title: Odd Year & The Reverb Junkie - Don't Say It Didn't Hurt (Club Mix)
+Album: EFP Vol 06: More Electro Than Electro
+Track: 11
+Date: 2013
+mtime: 1557154674
+song_end
+song_begin: /home/thouther/Music/electro-freaks/efp-vol-06-more-electro-than-electro/12 - hollidayrain-let-me-go-feat-russell-elliott.mp3
+Time: 432.901000
+Artist: Electro Freaks
+Title: Hollidayrain - Let Me Go (feat. Russell Elliott)
+Album: EFP Vol 06: More Electro Than Electro
+Track: 12
+Date: 2013
+mtime: 1557154722
+song_end
+song_begin: /home/thouther/Music/electro-freaks/efp-vol-06-more-electro-than-electro/13 - rchetype-arcturus-feat-wolfgun.mp3
+Time: 273.528000
+Artist: Electro Freaks
+Title: Rchetype - Arcturus (feat. Wolfgun)
+Album: EFP Vol 06: More Electro Than Electro
+Track: 13
+Date: 2013
+mtime: 1557154760
+song_end
+song_begin: /home/thouther/Music/electro-freaks/efp-vol-06-more-electro-than-electro/14 - nervous_testpilot-holding-fire.mp3
+Time: 405.263000
+Artist: Electro Freaks
+Title: nervous_testpilot - Holding Fire
+Album: EFP Vol 06: More Electro Than Electro
+Track: 14
+Date: 2013
+mtime: 1557154823
+song_end
+song_begin: /home/thouther/Music/electro-freaks/efp-vol-06-more-electro-than-electro/15 - flexstyle-stand-with-me.mp3
+Time: 212.767000
+Artist: Electro Freaks
+Title: Flexstyle - Stand With Me
+Album: EFP Vol 06: More Electro Than Electro
+Track: 15
+Date: 2013
+mtime: 1557154848
+song_end
+song_begin: /home/thouther/Music/electro-freaks/efp-vol-06-more-electro-than-electro/16 - misfitchris-night-toneair.mp3
+Time: 264.411000
+Artist: Electro Freaks
+Title: MisfitChris - Night Tone.AiR
+Album: EFP Vol 06: More Electro Than Electro
+Track: 16
+Date: 2013
+mtime: 1557154877
+song_end
+song_begin: /home/thouther/Music/electro-freaks/efp-vol-06-more-electro-than-electro/17 - fetal-pulse-hyper-jump.mp3
+Time: 222.615000
+Artist: Electro Freaks
+Title: Fetal Pulse - Hyper Jump
+Album: EFP Vol 06: More Electro Than Electro
+Track: 17
+Date: 2013
+mtime: 1557154897
+song_end
+song_begin: /home/thouther/Music/electro-freaks/efp-vol-06-more-electro-than-electro/18 - color-theory-slot-machine.mp3
+Time: 271.882000
+Artist: Electro Freaks
+Title: Color Theory - Slot Machine
+Album: EFP Vol 06: More Electro Than Electro
+Track: 18
+Date: 2013
+mtime: 1557154927
+song_end
+song_begin: /home/thouther/Music/electro-freaks/efp-vol-06-more-electro-than-electro/19 - tad-rees-aka-solo-mars-descent-efp-mix.mp3
+Time: 265.822000
+Artist: Electro Freaks
+Title: Tad Rees aka Solo - Mars Descent (EFP Mix)
+Album: EFP Vol 06: More Electro Than Electro
+Track: 19
+Date: 2013
+mtime: 1557154967
+song_end
+song_begin: /home/thouther/Music/electro-freaks/efp-vol-06-more-electro-than-electro/20 - sum-oblivion-alex-gloworld-instrumental-remix.mp3
+Time: 204.042000
+Artist: Electro Freaks
+Title: Sum - Oblivion (Alex Gloworld Instrumental Remix)
+Album: EFP Vol 06: More Electro Than Electro
+Track: 20
+Date: 2013
+mtime: 1557154986
+song_end
+song_begin: /home/thouther/Music/electro-freaks/efp-vol-06-more-electro-than-electro/21 - glass-department-sunlight.mp3
+Time: 226.115000
+Artist: Electro Freaks
+Title: Glass Department - Sunlight
+Album: EFP Vol 06: More Electro Than Electro
+Track: 21
+Date: 2013
+mtime: 1557155028
+song_end
+song_begin: /home/thouther/Music/electro-freaks/efp-vol-06-more-electro-than-electro/22 - phrakture-no-illusion.mp3
+Time: 492.042000
+Artist: Electro Freaks
+Title: Phrakture - No Illusion
+Album: EFP Vol 06: More Electro Than Electro
+Track: 22
+Date: 2013
+mtime: 1557155095
+song_end
+song_begin: /home/thouther/Music/electro-freaks/efp-vol-06-more-electro-than-electro/23 - theblackparrot-bandit.mp3
+Time: 353.959000
+Artist: Electro Freaks
+Title: TheBlackParrot - Bandit
+Album: EFP Vol 06: More Electro Than Electro
+Track: 23
+Date: 2013
+mtime: 1557155144
+song_end
+song_begin: /home/thouther/Music/electro-freaks/efp-vol-06-more-electro-than-electro/24 - jamison-randall-maybe-feat-category5.mp3
+Time: 454.661000
+Artist: Electro Freaks
+Title: Jamison Randall - Maybe (feat. Category5)
+Album: EFP Vol 06: More Electro Than Electro
+Track: 24
+Date: 2013
+mtime: 1557155190
+song_end
+song_begin: /home/thouther/Music/furi-original-soundtrack/01 - carpenter-brut-time-to-wake-up.mp3
+Time: 68.911000
+Artist: Carpenter Brut, Danger, The Toxic Avenger, Lorn, Scattle, Waveshaper, Kn1ght
+Title: Carpenter Brut - Time to wake up
+Album: Furi Original Soundtrack
+Track: 1
+Date: 2016
+mtime: 1557152932
+song_end
+song_begin: /home/thouther/Music/furi-original-soundtrack/02 - danger-danger-624.mp3
+Time: 261.851000
+Artist: Carpenter Brut, Danger, The Toxic Avenger, Lorn, Scattle, Waveshaper, Kn1ght
+Title: Danger - Danger 6:24
+Album: Furi Original Soundtrack
+Track: 2
+Date: 2016
+mtime: 1557152975
+song_end
+song_begin: /home/thouther/Music/furi-original-soundtrack/03 - carpenter-brut-enraged.mp3
+Time: 297.586000
+Artist: Carpenter Brut, Danger, The Toxic Avenger, Lorn, Scattle, Waveshaper, Kn1ght
+Title: Carpenter Brut - Enraged
+Album: Furi Original Soundtrack
+Track: 3
+Date: 2016
+mtime: 1557153051
+song_end
+song_begin: /home/thouther/Music/furi-original-soundtrack/04 - waveshaper-a-picture-in-motion.mp3
+Time: 202.605000
+Artist: Carpenter Brut, Danger, The Toxic Avenger, Lorn, Scattle, Waveshaper, Kn1ght
+Title: Waveshaper - A picture in motion
+Album: Furi Original Soundtrack
+Track: 4
+Date: 2016
+mtime: 1557153090
+song_end
+song_begin: /home/thouther/Music/furi-original-soundtrack/05 - waveshaper-wisdom-of-rage.mp3
+Time: 306.416000
+Artist: Carpenter Brut, Danger, The Toxic Avenger, Lorn, Scattle, Waveshaper, Kn1ght
+Title: Waveshaper - Wisdom of rage
+Album: Furi Original Soundtrack
+Track: 5
+Date: 2016
+mtime: 1557153155
+song_end
+song_begin: /home/thouther/Music/furi-original-soundtrack/06 - lorn-unraveled.mp3
+Time: 285.910000
+Artist: Carpenter Brut, Danger, The Toxic Avenger, Lorn, Scattle, Waveshaper, Kn1ght
+Title: Lorn - Unraveled
+Album: Furi Original Soundtrack
+Track: 6
+Date: 2016
+mtime: 1557153239
+song_end
+song_begin: /home/thouther/Music/furi-original-soundtrack/07 - lorn-set-me-free.mp3
+Time: 367.386000
+Artist: Carpenter Brut, Danger, The Toxic Avenger, Lorn, Scattle, Waveshaper, Kn1ght
+Title: Lorn - Set me free
+Album: Furi Original Soundtrack
+Track: 7
+Date: 2016
+mtime: 1557153245
+song_end
+song_begin: /home/thouther/Music/furi-original-soundtrack/08 - carpenter-brut-what-we-fight-for.mp3
+Time: 404.192000
+Artist: Carpenter Brut, Danger, The Toxic Avenger, Lorn, Scattle, Waveshaper, Kn1ght
+Title: Carpenter Brut - What we fight for
+Album: Furi Original Soundtrack
+Track: 8
+Date: 2016
+mtime: 1557153250
+song_end
+song_begin: /home/thouther/Music/furi-original-soundtrack/09 - the-toxic-avenger-make-this-right.mp3
+Time: 348.264000
+Artist: Carpenter Brut, Danger, The Toxic Avenger, Lorn, Scattle, Waveshaper, Kn1ght
+Title: The Toxic Avenger - Make this right
+Album: Furi Original Soundtrack
+Track: 9
+Date: 2016
+mtime: 1557153255
+song_end
+song_begin: /home/thouther/Music/furi-original-soundtrack/10 - the-toxic-avenger-make-this-right-remix.mp3
+Time: 201.351000
+Artist: Carpenter Brut, Danger, The Toxic Avenger, Lorn, Scattle, Waveshaper, Kn1ght
+Title: The Toxic Avenger - Make this right - remix
+Album: Furi Original Soundtrack
+Track: 10
+Date: 2016
+mtime: 1557153259
+song_end
+song_begin: /home/thouther/Music/furi-original-soundtrack/11 - scattle-love-and-madness.mp3
+Time: 209.528000
+Artist: Carpenter Brut, Danger, The Toxic Avenger, Lorn, Scattle, Waveshaper, Kn1ght
+Title: Scattle - Love and madness
+Album: Furi Original Soundtrack
+Track: 11
+Date: 2016
+mtime: 1557153265
+song_end
+song_begin: /home/thouther/Music/furi-original-soundtrack/12 - carpenter-brut-youre-mine.mp3
+Time: 378.618000
+Artist: Carpenter Brut, Danger, The Toxic Avenger, Lorn, Scattle, Waveshaper, Kn1ght
+Title: Carpenter Brut - You're mine
+Album: Furi Original Soundtrack
+Track: 12
+Date: 2016
+mtime: 1557153273
+song_end
+song_begin: /home/thouther/Music/furi-original-soundtrack/13 - kn1ght-a-big-day.mp3
+Time: 153.626000
+Artist: Carpenter Brut, Danger, The Toxic Avenger, Lorn, Scattle, Waveshaper, Kn1ght
+Title: Kn1ght - A big day
+Album: Furi Original Soundtrack
+Track: 13
+Date: 2016
+mtime: 1557153277
+song_end
+song_begin: /home/thouther/Music/furi-original-soundtrack/14 - kn1ght-something-memorable.mp3
+Time: 359.497000
+Artist: Carpenter Brut, Danger, The Toxic Avenger, Lorn, Scattle, Waveshaper, Kn1ght
+Title: Kn1ght - Something memorable
+Album: Furi Original Soundtrack
+Track: 14
+Date: 2016
+mtime: 1557153284
+song_end
+song_begin: /home/thouther/Music/furi-original-soundtrack/15 - waveshaper-a-monster.mp3
+Time: 259.995000
+Artist: Carpenter Brut, Danger, The Toxic Avenger, Lorn, Scattle, Waveshaper, Kn1ght
+Title: Waveshaper - A monster
+Album: Furi Original Soundtrack
+Track: 15
+Date: 2016
+mtime: 1557153290
+song_end
+song_begin: /home/thouther/Music/furi-original-soundtrack/16 - waveshaper-you-are-the-end.mp3
+Time: 138.684000
+Artist: Carpenter Brut, Danger, The Toxic Avenger, Lorn, Scattle, Waveshaper, Kn1ght
+Title: Waveshaper - You are the end
+Album: Furi Original Soundtrack
+Track: 16
+Date: 2016
+mtime: 1557153293
+song_end
+song_begin: /home/thouther/Music/furi-original-soundtrack/17 - the-toxic-avenger-my-only-chance.mp3
+Time: 408.058000
+Artist: Carpenter Brut, Danger, The Toxic Avenger, Lorn, Scattle, Waveshaper, Kn1ght
+Title: The Toxic Avenger - My only chance
+Album: Furi Original Soundtrack
+Track: 17
+Date: 2016
+mtime: 1557153301
+song_end
+song_begin: /home/thouther/Music/furi-original-soundtrack/18 - scattle-shambles.mp3
+Time: 365.505000
+Artist: Carpenter Brut, Danger, The Toxic Avenger, Lorn, Scattle, Waveshaper, Kn1ght
+Title: Scattle - Shambles
+Album: Furi Original Soundtrack
+Track: 18
+Date: 2016
+mtime: 1557153308
+song_end
+song_begin: /home/thouther/Music/furi-original-soundtrack/19 - danger-danger-753.mp3
+Time: 157.413000
+Artist: Carpenter Brut, Danger, The Toxic Avenger, Lorn, Scattle, Waveshaper, Kn1ght
+Title: Danger - Danger 7:53
+Album: Furi Original Soundtrack
+Track: 19
+Date: 2016
+mtime: 1557153312
+song_end
+song_begin: /home/thouther/Music/furi-original-soundtrack/20 - danger-danger-802.mp3
+Time: 267.572000
+Artist: Carpenter Brut, Danger, The Toxic Avenger, Lorn, Scattle, Waveshaper, Kn1ght
+Title: Danger - Danger 8:02
+Album: Furi Original Soundtrack
+Track: 20
+Date: 2016
+mtime: 1557153319
+song_end
+song_begin: /home/thouther/Music/furi-original-soundtrack/21 - danger-danger-1906.mp3
+Time: 75.337000
+Artist: Carpenter Brut, Danger, The Toxic Avenger, Lorn, Scattle, Waveshaper, Kn1ght
+Title: Danger - Danger 19:06
+Album: Furi Original Soundtrack
+Track: 21
+Date: 2016
+mtime: 1557153321
+song_end
+song_begin: /home/thouther/Music/furi-original-soundtrack/22 - danger-danger-1907.mp3
+Time: 75.337000
+Artist: Carpenter Brut, Danger, The Toxic Avenger, Lorn, Scattle, Waveshaper, Kn1ght
+Title: Danger - Danger 19:07
+Album: Furi Original Soundtrack
+Track: 22
+Date: 2016
+mtime: 1557153324
+song_end
+song_begin: /home/thouther/Music/gost/behemoth/01 - beyond.mp3
+Time: 51.826000
+Artist: GosT
+Title: Beyond
+Album: Behemoth
+Track: 1
+Date: 2015
+mtime: 1557154129
+song_end
+song_begin: /home/thouther/Music/gost/behemoth/02 - genesee-avenue.mp3
+Time: 232.855000
+Artist: GosT
+Title: Genesee Avenue
+Album: Behemoth
+Track: 2
+Date: 2015
+mtime: 1557154148
+song_end
+song_begin: /home/thouther/Music/gost/behemoth/03 - night-crawler.mp3
+Time: 260.362000
+Artist: GosT
+Title: Night Crawler
+Album: Behemoth
+Track: 3
+Date: 2015
+mtime: 1557154158
+song_end
+song_begin: /home/thouther/Music/gost/behemoth/04 - master.mp3
+Time: 207.673000
+Artist: GosT
+Title: Master
+Album: Behemoth
+Track: 4
+Date: 2015
+mtime: 1557154171
+song_end
+song_begin: /home/thouther/Music/gost/behemoth/05 - reign-in-hell.mp3
+Time: 111.281000
+Artist: GosT
+Title: Reign in Hell
+Album: Behemoth
+Track: 5
+Date: 2015
+mtime: 1557154176
+song_end
+song_begin: /home/thouther/Music/gost/behemoth/06 - tongue.mp3
+Time: 290.063000
+Artist: GosT
+Title: Tongue
+Album: Behemoth
+Track: 6
+Date: 2015
+mtime: 1557154199
+song_end
+song_begin: /home/thouther/Music/gost/behemoth/07 - without-a-trace-feat-hayley-stewart.mp3
+Time: 263.026000
+Artist: GosT
+Title: Without a Trace (feat. Hayley Stewart)
+Album: Behemoth
+Track: 7
+Date: 2015
+mtime: 1557154221
+song_end
+song_begin: /home/thouther/Music/gost/behemoth/08 - ripper.mp3
+Time: 290.560000
+Artist: GosT
+Title: Ripper
+Album: Behemoth
+Track: 8
+Date: 2015
+mtime: 1557154242
+song_end
+song_begin: /home/thouther/Music/gost/behemoth/09 - bathory-bitch.mp3
+Time: 332.669000
+Artist: GosT
+Title: Bathory Bitch
+Album: Behemoth
+Track: 9
+Date: 2015
+mtime: 1557154270
+song_end
+song_begin: /home/thouther/Music/gost/behemoth/10 - sacrament.mp3
+Time: 61.204000
+Artist: GosT
+Title: Sacrament
+Album: Behemoth
+Track: 10
+Date: 2015
+mtime: 1557154279
+song_end
+song_begin: /home/thouther/Music/gost/behemoth/11 - behemoth.mp3
+Time: 267.128000
+Artist: GosT
+Title: Behemoth
+Album: Behemoth
+Track: 11
+Date: 2015
+mtime: 1557154293
+song_end
+song_begin: /home/thouther/Music/gost/behemoth/12 - reign-in-hell-dance-with-the-dead-remix.mp3
+Time: 222.484000
+Artist: GosT
+Title: Reign in Hell (Dance with the Dead remix)
+Album: Behemoth
+Track: 12
+Date: 2015
+mtime: 1557154302
+song_end
+song_begin: /home/thouther/Music/gost/behemoth/13 - behemoth-perturbator-remix.mp3
+Time: 262.373000
+Artist: GosT
+Title: Behemoth (Perturbator remix)
+Album: Behemoth
+Track: 13
+Date: 2015
+mtime: 1557154321
+song_end
+song_begin: /home/thouther/Music/lost_shapes_reinvented/electric_space_year_(bachelor_of_hearts).mp3
+Time: 267.964000
+mtime: 1567683060
+song_end
+song_begin: /home/thouther/Music/lost_shapes_reinvented/waveshaper-electric_space_year_(moustache_machine_remix).mp3
+Time: 290.194000
+mtime: 1567683023
+song_end
+song_begin: /home/thouther/Music/lost_shapes_reinvented/waveshaper-portal_(powernerd_remix).mp3
+Time: 247.745000
+mtime: 1567683030
+song_end
+song_begin: /home/thouther/Music/lost_shapes_reinvented/waveshaper-space_romance_(acidulé_remix).mp3
+Time: 231.131000
+mtime: 1567683064
+song_end
+song_begin: /home/thouther/Music/lost_shapes_reinvented/waveshaper-stockholm_2358_(acidulé_remix).mp3
+Time: 265.534000
+mtime: 1567683033
+song_end
+song_begin: /home/thouther/Music/lost_shapes_reinvented/waveshaper-stockholm_2358_(baldocaster_remix).mp3
+Time: 218.618000
+mtime: 1567683056
+song_end
+song_begin: /home/thouther/Music/lost_shapes_reinvented/waveshaper-the_plan_(atom_delta_remix).mp3
+Time: 213.263000
+mtime: 1567683049
+song_end
+song_begin: /home/thouther/Music/lost_shapes_reinvented/waveshaper-the_year_is_2003_(oscillian_remix).mp3
+Time: 209.214000
+mtime: 1567683038
+song_end
+song_begin: /home/thouther/Music/mitch-murder/mitch murder - the touch.mp3
+Time: 326.217000
+Artist: Mitch Murder
+Title: mitch murder - the touch
+Date: 2013-04-03T01
+mtime: 1364923210
+song_end
+song_begin: /home/thouther/Music/mitch-murder/current-events/01 - looking-back.mp3
+Time: 66.690000
+Artist: Mitch Murder
+Title: Looking Back
+Album: Current Events
+Track: 1
+Date: 2011
+mtime: 1557153626
+song_end
+song_begin: /home/thouther/Music/mitch-murder/current-events/02 - frantic-aerobics.mp3
+Time: 227.578000
+Artist: Mitch Murder
+Title: Frantic Aerobics
+Album: Current Events
+Track: 2
+Date: 2011
+mtime: 1557153683
+song_end
+song_begin: /home/thouther/Music/mitch-murder/current-events/03 - in-the-news.mp3
+Time: 320.626000
+Artist: Mitch Murder
+Title: In The News
+Album: Current Events
+Track: 3
+Date: 2011
+mtime: 1557153770
+song_end
+song_begin: /home/thouther/Music/mitch-murder/current-events/04 - night-train.mp3
+Time: 244.140000
+Artist: Mitch Murder
+Title: NIght Train
+Album: Current Events
+Track: 4
+Date: 2011
+mtime: 1557153834
+song_end
+song_begin: /home/thouther/Music/mitch-murder/current-events/05 - palmers-arcade.mp3
+Time: 337.502000
+Artist: Mitch Murder
+Title: Palmer's Arcade
+Album: Current Events
+Track: 5
+Date: 2011
+mtime: 1557153917
+song_end
+song_begin: /home/thouther/Music/mitch-murder/current-events/06 - telefuture-theme.mp3
+Time: 262.817000
+Artist: Mitch Murder
+Title: Telefuture Theme
+Album: Current Events
+Track: 6
+Date: 2011
+mtime: 1557153971
+song_end
+song_begin: /home/thouther/Music/mitch-murder/current-events/07 - intermission.mp3
+Time: 70.870000
+Artist: Mitch Murder
+Title: Intermission
+Album: Current Events
+Track: 7
+Date: 2011
+mtime: 1557153984
+song_end
+song_begin: /home/thouther/Music/mitch-murder/current-events/08 - slipstream.mp3
+Time: 220.029000
+Artist: Mitch Murder
+Title: Slipstream
+Album: Current Events
+Track: 8
+Date: 2011
+mtime: 1557154017
+song_end
+song_begin: /home/thouther/Music/mitch-murder/current-events/09 - shores-of-orion.mp3
+Time: 270.837000
+Artist: Mitch Murder
+Title: Shores Of Orion
+Album: Current Events
+Track: 9
+Date: 2011
+mtime: 1557154041
+song_end
+song_begin: /home/thouther/Music/mitch-murder/current-events/10 - milk-run.mp3
+Time: 122.514000
+Artist: Mitch Murder
+Title: Milk Run
+Album: Current Events
+Track: 10
+Date: 2011
+mtime: 1557154052
+song_end
+song_begin: /home/thouther/Music/mitch-murder/current-events/11 - inner-city-chronicles.mp3
+Time: 262.321000
+Artist: Mitch Murder
+Title: Inner City Chronicles
+Album: Current Events
+Track: 11
+Date: 2011
+mtime: 1557154066
+song_end
+song_begin: /home/thouther/Music/mitch-murder/current-events/12 - exodus.mp3
+Time: 251.115000
+Artist: Mitch Murder
+Title: Exodus
+Album: Current Events
+Track: 12
+Date: 2011
+mtime: 1557154095
+song_end
+song_begin: /home/thouther/Music/mitch-murder/the-real-deal/01 - call-waiting.mp3
+Time: 231.967000
+Artist: Mitch Murder
+Title: Call Waiting
+Album: The Real Deal
+Track: 1
+Date: 2016
+mtime: 1557155834
+song_end
+song_begin: /home/thouther/Music/mitch-murder/the-real-deal/02 - digital-marketplace-strategy.mp3
+Time: 264.411000
+Artist: Mitch Murder
+Title: Digital Marketplace Strategy
+Album: The Real Deal
+Track: 2
+Date: 2016
+mtime: 1557155848
+song_end
+song_begin: /home/thouther/Music/mitch-murder/the-real-deal/03 - breakaway.mp3
+Time: 237.113000
+Artist: Mitch Murder
+Title: Breakaway
+Album: The Real Deal
+Track: 3
+Date: 2016
+mtime: 1557155860
+song_end
+song_begin: /home/thouther/Music/mitch-murder/the-real-deal/04 - outpost-alpha.mp3
+Time: 272.640000
+Artist: Mitch Murder
+Title: Outpost Alpha
+Album: The Real Deal
+Track: 4
+Date: 2016
+mtime: 1557155887
+song_end
+song_begin: /home/thouther/Music/mitch-murder/the-real-deal/05 - prime-operator.mp3
+Time: 235.702000
+Artist: Mitch Murder
+Title: Prime Operator
+Album: The Real Deal
+Track: 5
+Date: 2016
+mtime: 1557155899
+song_end
+song_begin: /home/thouther/Music/mitch-murder/Mitch Murder- The Touch (Nite Sprite Remix).mp3
+Time: 389.381000
+Artist: Mad Decent
+Title: Mitch Murder- The Touch (Nite Sprite Remix)
+Date: 2013-07-22T22
+Genre: Mitch Murder
+mtime: 1374502118
+song_end
+song_begin: /home/thouther/Music/Waveshaper/artifact/01 - 1-peaceful-morning.mp3
+Time: 64.025000
+Artist: Waveshaper
+Title: 1. Peaceful Morning
+Album: Artifact
+Track: 1
+Date: 2019
+mtime: 1557141789
+song_end
+song_begin: /home/thouther/Music/Waveshaper/artifact/02 - 2-decoding-myself.mp3
+Time: 218.044000
+Artist: Waveshaper
+Title: 2. Decoding Myself
+Album: Artifact
+Track: 2
+Date: 2019
+mtime: 1557141800
+song_end
+song_begin: /home/thouther/Music/Waveshaper/artifact/03 - 3-departure.mp3
+Time: 310.047000
+Artist: Waveshaper
+Title: 3. Departure
+Album: Artifact
+Track: 3
+Date: 2019
+mtime: 1557141830
+song_end
+song_begin: /home/thouther/Music/Waveshaper/artifact/04 - 4-artifact.mp3
+Time: 270.027000
+Artist: Waveshaper
+Title: 4. Artifact
+Album: Artifact
+Track: 4
+Date: 2019
+mtime: 1557141852
+song_end
+song_begin: /home/thouther/Music/Waveshaper/artifact/05 - 5-loader-interlude.mp3
+Time: 117.498000
+Artist: Waveshaper
+Title: 5. Loader (Interlude)
+Album: Artifact
+Track: 5
+Date: 2019
+mtime: 1557141859
+song_end
+song_begin: /home/thouther/Music/Waveshaper/artifact/06 - 6-legacy.mp3
+Time: 309.028000
+Artist: Waveshaper
+Title: 6. Legacy
+Album: Artifact
+Track: 6
+Date: 2019
+mtime: 1557141884
+song_end
+song_begin: /home/thouther/Music/Waveshaper/artifact/07 - 7-100mhz.mp3
+Time: 224.026000
+Artist: Waveshaper
+Title: 7. 100MHz
+Album: Artifact
+Track: 7
+Date: 2019
+mtime: 1557141898
+song_end
+song_begin: /home/thouther/Music/Waveshaper/artifact/08 - 8-the-guardian.mp3
+Time: 243.487000
+Artist: Waveshaper
+Title: 8. The Guardian
+Album: Artifact
+Track: 8
+Date: 2019
+mtime: 1557141920
+song_end
+song_begin: /home/thouther/Music/Waveshaper/artifact/09 - 9-desert-dawn.mp3
+Time: 245.028000
+Artist: Waveshaper
+Title: 9. Desert Dawn
+Album: Artifact
+Track: 9
+Date: 2019
+mtime: 1557141944
+song_end
+song_begin: /home/thouther/Music/Waveshaper/artifact/10 - 10-let-s-escape-together.mp3
+Time: 205.035000
+Artist: Waveshaper
+Title: 10. Let´s Escape Together
+Album: Artifact
+Track: 10
+Date: 2019
+mtime: 1557141960
+song_end
+song_begin: /home/thouther/Music/Waveshaper/artifact/11 - 11-jupiter-hours.mp3
+Time: 197.015000
+Artist: Waveshaper
+Title: 11. Jupiter Hours
+Album: Artifact
+Track: 11
+Date: 2019
+mtime: 1557141984
+song_end
+song_begin: /home/thouther/Music/Waveshaper/retro-future/01 - cyborg-telekinetics.mp3
+Time: 182.047000
+Artist: Waveshaper
+Title: Cyborg Telekinetics
+Album: Retro Future
+Track: 1
+Date: 2014
+mtime: 1557156813
+song_end
+song_begin: /home/thouther/Music/Waveshaper/retro-future/02 - electrical-feelings.mp3
+Time: 237.035000
+Artist: Waveshaper
+Title: Electrical Feelings
+Album: Retro Future
+Track: 2
+Date: 2014
+mtime: 1557156822
+song_end
+song_begin: /home/thouther/Music/Waveshaper/retro-future/03 - so-french-disco.mp3
+Time: 204.042000
+Artist: Waveshaper
+Title: So French Disco
+Album: Retro Future
+Track: 3
+Date: 2014
+mtime: 1557156830
+song_end
+song_begin: /home/thouther/Music/Waveshaper/retro-future/04 - dangerous-love.mp3
+Time: 253.048000
+Artist: Waveshaper
+Title: Dangerous Love
+Album: Retro Future
+Track: 4
+Date: 2014
+mtime: 1557156837
+song_end
+song_begin: /home/thouther/Music/Waveshaper/retro-future/05 - surveillance.mp3
+Time: 271.046000
+Artist: Waveshaper
+Title: Surveillance
+Album: Retro Future
+Track: 5
+Date: 2014
+mtime: 1557156845
+song_end
+song_begin: /home/thouther/Music/Waveshaper/retro-future/06 - cabin-fever-in-space.mp3
+Time: 208.039000
+Artist: Waveshaper
+Title: Cabin Fever In Space
+Album: Retro Future
+Track: 6
+Date: 2014
+mtime: 1557156852
+song_end
+song_begin: /home/thouther/Music/Waveshaper/retro-future/07 - home-at-last.mp3
+Time: 98.037000
+Artist: Waveshaper
+Title: Home at last
+Album: Retro Future
+Track: 7
+Date: 2014
+mtime: 1557156856
+song_end
+song_begin: /home/thouther/Music/Waveshaper/velocity/01 - sequence-code.mp3
+Time: 300.042000
+Artist: Waveshaper
+Title: Sequence Code
+Album: Velocity
+Track: 1
+Date: 2017
+mtime: 1557149391
+song_end
+song_begin: /home/thouther/Music/Waveshaper/velocity/02 - choices.mp3
+Time: 271.595000
+Artist: Waveshaper
+Title: Choices
+Album: Velocity
+Track: 2
+Date: 2017
+mtime: 1557149437
+song_end
+song_begin: /home/thouther/Music/Waveshaper/velocity/03 - mega-fighter.mp3
+Time: 295.026000
+Artist: Waveshaper
+Title: Mega Fighter
+Album: Velocity
+Track: 3
+Date: 2017
+mtime: 1557149479
+song_end
+song_begin: /home/thouther/Music/Waveshaper/velocity/04 - 16-bit-computer.mp3
+Time: 234.631000
+Artist: Waveshaper
+Title: 16 Bit Computer
+Album: Velocity
+Track: 4
+Date: 2017
+mtime: 1557149506
+song_end
+song_begin: /home/thouther/Music/Waveshaper/velocity/05 - the-sphere.mp3
+Time: 302.706000
+Artist: Waveshaper
+Title: The Sphere
+Album: Velocity
+Track: 5
+Date: 2017
+mtime: 1557149546
+song_end
+song_begin: /home/thouther/Music/Waveshaper/velocity/06 - outer-fields.mp3
+Time: 251.480000
+Artist: Waveshaper
+Title: Outer Fields
+Album: Velocity
+Track: 6
+Date: 2017
+mtime: 1557149581
+song_end
+song_begin: /home/thouther/Music/Waveshaper/66-mhz/Single - 66-mhz.mp3
+Time: 234.109000
+Artist: Waveshaper
+Title: 66 MHz
+Album: 66 MHz
+Date: 2017
+mtime: 1557142793
+song_end
+176:CloudMusic/01 - Cyborg Telekinetics.mp3
+177:CloudMusic/03 - So French Disco.mp3
+178:CloudMusic/04 The Engineer.flac
+179:CloudMusic/05 Pixel Stars (feat. Robert Parker).mp3
+180:CloudMusic/06 Midnight Stroll.flac
+181:CloudMusic/09 Chasing the Clone of Myself.flac
+182:CloudMusic/66 MHz.mp3
+183:CloudMusic/80 Strange Robots - Robocop.mp3
+184:CloudMusic/Anoraak - Long Distance Hearts.mp3
+185:CloudMusic/Bearcraft - Ghost.mp3
+186:CloudMusic/Bestrack - Sparkle.mp3
+187:CloudMusic/Big Giant Circles - LAX.mp3
+188:CloudMusic/Miami Nights 1984 - Ocean Drive.mp3
+189:CloudMusic/Miami Nights 1984 - Tiger42.mp3
+190:CloudMusic/Mitch Murder - Call Waiting.mp3
+191:CloudMusic/Mitch Murder - Digital Marketplace Strategy.mp3
+192:CloudMusic/Mitch Murder - In The News.mp3
+193:CloudMusic/Mitch Murder - Knight Rider Theme.mp3
+194:CloudMusic/Mitch Murder - Melting Point.mp3
+195:CloudMusic/Mitch Murder - Playing For Keeps.mp3
+196:CloudMusic/Mitch Murder - Prime Operator.mp3
+197:CloudMusic/Ogre - Always Outnumbered, Never Outrun.mp3
+198:CloudMusic/Outrun Europa - Cougar Synth - Through the barrier.mp3
+199:CloudMusic/Perturbator - The Cult Of 2112.mp3
+200:CloudMusic/Power Glove - Blood Dragon Theme.mp3
+201:CloudMusic/Quixotic - Escape from Budapest.mp3
+202:CloudMusic/Quixotic - Highway Violence.mp3
+203:CloudMusic/Roex - A.T. Field.mp3
+204:CloudMusic/Sellorekt／LA Dreams - Age of Innocence.mp3
+205:CloudMusic/Sellorekt／LA Dreams - Black Rain.mp3
+206:CloudMusic/Sellorekt／LA Dreams - I'm calling you.mp3
+207:CloudMusic/Sellorekt／LA Dreams - Spotlights.mp3
+208:CloudMusic/Gost - Genesee Avenue.mp3
+209:CloudMusic/Gost - Master.mp3
+210:CloudMusic/Gost - Night Crawler.mp3
+211:CloudMusic/Gost - Sacrament.mp3
+212:CloudMusic/Gost - Tongue.mp3
+213:CloudMusic/Gridscape - Megavolt.mp3
+214:CloudMusic/Highway Superstar - 10-80.mp3
+215:CloudMusic/Highway Superstar - All Around the World (feat. Who Ha).mp3
+216:CloudMusic/Highway Superstar - Camaro 86.mp3
+217:CloudMusic/Biodrive - Midnight Affair.mp3
+218:CloudMusic/Choices.mp3
+219:CloudMusic/Cluster Buster - The Bodycount Continues.mp3
+220:CloudMusic/d.notive - Hell's Highway.mp3
+221:CloudMusic/d.notive - Streets of Passion.mp3
+222:CloudMusic/Daft Punk - Castor.mp3
+223:CloudMusic/Daft Punk - TRON Legacy (End Titles).mp3
+224:CloudMusic/Dance With The Dead - Invader.mp3
+225:CloudMusic/Dance With The Dead - ODYSSEY.mp3
+226:CloudMusic/Dance With The Dead - Waves.mp3
+227:CloudMusic/Decktonic - This Love Is Faux Real.mp3
+228:CloudMusic/Droid Bishop - Days Of The Running Man.mp3
+229:CloudMusic/Emil Rottmayer - Limit.mp3
+230:CloudMusic/FM-84 - Everything.mp3
+231:CloudMusic/Future City Records - I Am The Program.mp3
+232:CloudMusic/Future City Records - Sung-Thunder Love.mp3
+233:CloudMusic/Future City Records - Timecop 1983-Fading Away.mp3
+234:CloudMusic/Garoad - A New Frontier.mp3
+235:CloudMusic/Highway Superstar - Halogen City.mp3
+236:CloudMusic/Jordan F - So Close.mp3
+237:CloudMusic/Kavinsky - Testarossa SebAstian Remix - remix.mp3
+238:CloudMusic/Kick Puncher - Runner Gunner.mp3
+239:CloudMusic/Lazerhawk - Distant Signal 003.mp3
+240:CloudMusic/Lazerhawk - Distress Signal.mp3
+241:CloudMusic/Lazerhawk - Shoulder of Orion.mp3
+242:CloudMusic/Lazerhawk - So Close.mp3
+243:CloudMusic/Lazerpunk! - Nightcrawler.mp3
+244:CloudMusic/Le Matos - La Mer des Possibilités.mp3
+245:CloudMusic/Le Matos - Molly.mp3
+246:CloudMusic/Le Matos - Overdog.mp3
+247:CloudMusic/Le Matos - Retired.mp3
+248:CloudMusic/Lost Years - Controlled Faith.mp3
+249:CloudMusic/Lost Years - Converter.mp3
+250:CloudMusic/Lost Years - Park Avenue 1989.mp3
+251:CloudMusic/Lueur Verte - Emerald Rising.mp3
+252:CloudMusic/Lueur Verte - Onyx Noir.mp3
+253:CloudMusic/Mega Corp - The Final Lap.mp3
+254:CloudMusic/Mega Drive,Mega Drive - Stargate.mp3
+255:CloudMusic/MK Ultra - Tears In The Rain.mp3
+256:CloudMusic/Narctrax - Excalibur Galactica.mp3
+257:CloudMusic/New Arcades - Find a Way.mp3
+258:CloudMusic/Nightcrawler - The Legacy (Nightcrawler & Diana Gitallog).mp3
+259:CloudMusic/Nightcrawler,Vincenzo Salvia - Dystopia (Original).mp3
+260:CloudMusic/NightStop - Dangerous Desires.mp3
+261:CloudMusic/NightStop - She Dances In The Dark.mp3
+262:CloudMusic/NightStop - Streetwalker.mp3
+263:CloudMusic/Nikki,Phaserland - Hot Stunner (Original).mp3
+264:CloudMusic/Starlight - Memories.mp3
+265:CloudMusic/The Midnight - Daytona.mp3
+266:CloudMusic/The Midnight - Endless Summer.mp3
+267:CloudMusic/The Midnight - The Equaliser (Not Alone).mp3
+268:CloudMusic/Various Artists - all systems go.mp3
+269:CloudMusic/Vestron Vulture - You ＊＊＊＊ed the Devil, Rosemary!.mp3
+270:CloudMusic/VHS Glitch - Stellar Pursuit.mp3
+271:CloudMusic/Vincenzo Salvia - Summer Love (feat. Chrissy Valentine).mp3
+272:CloudMusic/Vincenzo Salvia - Towards the Light.mp3
+273:CloudMusic/Waveshaper - A Mission To Remember.mp3
+playlist_end

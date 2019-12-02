@@ -1,0 +1,1152 @@
+Nov 26 13:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 26 13:55 : exception: Failed to open '/home/thouther/.mpd/mpdstate': No such file or directory
+Nov 26 13:55 : config: option 'device' on line 32 was not recognized
+Nov 26 13:55 : exception: Failed to access /home/thouther/Music: No such file or directory
+Nov 26 14:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 26 14:12 : config: option 'device' on line 32 was not recognized
+Nov 26 14:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 26 14:18 : config: option 'device' on line 32 was not recognized
+Nov 26 14:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 26 14:20 : config: option 'device' on line 32 was not recognized
+Nov 26 14:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 26 14:27 : config: option 'device' on line 32 was not recognized
+Nov 26 14:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 26 14:31 : config: option 'device' on line 32 was not recognized
+Nov 26 14:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 26 14:33 : config: option 'device' on line 32 was not recognized
+Nov 26 14:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 26 14:35 : config: option 'device' on line 32 was not recognized
+Nov 26 14:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 26 14:40 : config: option 'device' on line 32 was not recognized
+Nov 26 14:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 26 14:42 : config: option 'device' on line 32 was not recognized
+Nov 26 14:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 26 14:47 : config: option 'device' on line 32 was not recognized
+Nov 26 15:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 26 15:00 : config: option 'device' on line 32 was not recognized
+Nov 26 18:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 26 18:48 : config: option 'device' on line 32 was not recognized
+Nov 26 18:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 26 18:55 : config: option 'device' on line 32 was not recognized
+Nov 26 20:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 26 20:02 : config: option 'device' on line 32 was not recognized
+Nov 26 20:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 26 20:03 : config: option 'device' on line 32 was not recognized
+Nov 26 20:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 26 20:03 : config: option 'device' on line 32 was not recognized
+Nov 26 20:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 26 20:04 : config: option 'device' on line 32 was not recognized
+Nov 26 20:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 26 20:05 : config: option 'device' on line 32 was not recognized
+Nov 26 20:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 26 20:06 : config: option 'device' on line 32 was not recognized
+Nov 26 20:25 : client: [0] opened from local
+Nov 26 20:25 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:25 : client: [0] closed
+Nov 26 20:25 : client: [1] opened from local
+Nov 26 20:25 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:31 : client: [1] closed
+Nov 26 20:31 : client: [2] opened from local
+Nov 26 20:31 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:31 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:31 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:31 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:31 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:31 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:31 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : client: [2] closed
+Nov 26 20:32 : client: [3] opened from local
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:32 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:33 : exception: No such song
+Nov 26 20:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 26 20:48 : config: option 'device' on line 32 was not recognized
+Nov 26 20:48 : client: [0] opened from local
+Nov 26 20:52 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 26 20:52 : client: [0] closed
+Nov 26 23:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 26 23:49 : config: option 'device' on line 32 was not recognized
+Nov 27 11:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 27 11:32 : config: option 'device' on line 32 was not recognized
+Nov 27 12:25 : client: [0] opened from local
+Nov 27 12:25 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 27 12:25 : exception: No such song
+Nov 27 12:25 : exception: No such song
+Nov 27 12:25 : exception: No such song
+Nov 27 12:25 : exception: No such song
+Nov 27 12:25 : exception: No such song
+Nov 27 12:25 : exception: No such song
+Nov 27 12:25 : exception: No such song
+Nov 27 12:25 : exception: No such song
+Nov 27 12:25 : exception: No such song
+Nov 27 12:25 : exception: No such song
+Nov 27 12:25 : exception: No such song
+Nov 27 12:25 : exception: No such song
+Nov 27 12:27 : exception: No such song
+Nov 27 12:27 : exception: No such song
+Nov 27 12:27 : exception: No such song
+Nov 27 12:27 : exception: No such song
+Nov 27 12:27 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 27 12:27 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 27 12:27 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 27 12:27 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 27 12:27 : exception: No such song
+Nov 27 12:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 27 12:32 : config: option 'device' on line 32 was not recognized
+Nov 27 12:33 : exception: No such song
+Nov 27 12:33 : exception: No such song
+Nov 27 12:33 : exception: No such song
+Nov 27 12:33 : exception: No such song
+Nov 27 12:33 : exception: No such song
+Nov 27 12:33 : exception: No such song
+Nov 27 12:33 : exception: No such song
+Nov 27 12:33 : exception: No such song
+Nov 27 12:33 : exception: No such song
+Nov 27 12:33 : exception: No such song
+Nov 27 12:33 : exception: No such song
+Nov 27 12:33 : exception: No such song
+Nov 27 12:33 : exception: No such song
+Nov 27 12:33 : exception: No such song
+Nov 27 12:33 : exception: No such song
+Nov 27 12:33 : exception: No such song
+Nov 27 12:33 : exception: No such song
+Nov 27 12:33 : exception: No such song
+Nov 27 12:33 : exception: No such song
+Nov 27 12:33 : exception: No such song
+Nov 27 12:33 : exception: No such song
+Nov 27 12:33 : exception: No such song
+Nov 27 12:33 : exception: No such song
+Nov 27 12:58 : client: [0] closed
+Nov 27 12:58 : client: [0] opened from local
+Nov 27 12:58 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 12:58 : exception: No such song
+Nov 27 12:58 : exception: No such song
+Nov 27 12:58 : exception: No such song
+Nov 27 12:58 : exception: No such song
+Nov 27 12:58 : exception: No such song
+Nov 27 12:58 : exception: No such song
+Nov 27 12:58 : exception: No such song
+Nov 27 12:58 : exception: No such song
+Nov 27 12:58 : exception: No such song
+Nov 27 12:58 : exception: No such song
+Nov 27 12:58 : exception: No such song
+Nov 27 12:58 : exception: No such song
+Nov 27 12:58 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 12:58 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 12:58 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 12:58 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 12:58 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 12:58 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 12:58 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 12:58 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 12:58 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 12:58 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 12:58 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 12:58 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 12:58 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 12:58 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 12:58 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 12:58 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 12:58 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 12:58 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 12:58 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 12:58 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 12:58 : exception: No such song
+Nov 27 12:58 : exception: No such song
+Nov 27 12:58 : exception: No such song
+Nov 27 12:58 : exception: No such song
+Nov 27 12:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 27 12:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 27 12:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 27 12:59 : player: played "/media/Data/Music/CloudMusic/01 - Cyborg Telekinetics.mp3"
+Nov 27 12:59 : player: played "/media/Data/Music/CloudMusic/04 The Engineer.flac"
+Nov 27 12:59 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 12:59 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 12:59 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 12:59 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 12:59 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:01 : client: [0] closed
+Nov 27 13:01 : client: [1] opened from local
+Nov 27 13:01 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:01 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:01 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:01 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:01 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:01 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:01 : client: [1] closed
+Nov 27 13:01 : player: played "/media/Data/Music/CloudMusic/04 The Engineer.flac"
+Nov 27 13:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 27 13:02 : config: option 'device' on line 32 was not recognized
+Nov 27 13:02 : client: [0] opened from local
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: Not a directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 27 13:02 : exception: Failed to open /home/thouther/.mpd/playlists: No such file or directory
+Nov 27 13:02 : client: [0] closed
+Nov 27 13:03 : client: [1] opened from local
+Nov 27 13:03 : client: [1] closed
+Nov 27 13:03 : client: [2] opened from local
+Nov 27 13:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 27 13:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 27 13:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 27 13:04 : update: added CloudMusic/01 - Cyborg Telekinetics.mp3
+Nov 27 13:04 : update: added CloudMusic/03 - So French Disco.mp3
+Nov 27 13:04 : update: added CloudMusic/04 The Engineer.flac
+Nov 27 13:04 : update: added CloudMusic/05 Pixel Stars (feat. Robert Parker).mp3
+Nov 27 13:04 : update: added CloudMusic/06 Midnight Stroll.flac
+Nov 27 13:04 : update: added CloudMusic/09 Chasing the Clone of Myself.flac
+Nov 27 13:04 : update: added CloudMusic/66 MHz.mp3
+Nov 27 13:04 : update: added CloudMusic/80 Strange Robots - Robocop.mp3
+Nov 27 13:04 : update: added CloudMusic/Anoraak - Long Distance Hearts.mp3
+Nov 27 13:04 : update: added CloudMusic/Bearcraft - Ghost.mp3
+Nov 27 13:04 : update: added CloudMusic/Bestrack - Sparkle.mp3
+Nov 27 13:04 : update: added CloudMusic/Big Giant Circles - LAX.mp3
+Nov 27 13:04 : update: added CloudMusic/Miami Nights 1984 - Ocean Drive.mp3
+Nov 27 13:04 : update: added CloudMusic/Miami Nights 1984 - Tiger42.mp3
+Nov 27 13:04 : update: added CloudMusic/Mitch Murder - Call Waiting.mp3
+Nov 27 13:04 : update: added CloudMusic/Mitch Murder - Digital Marketplace Strategy.mp3
+Nov 27 13:04 : update: added CloudMusic/Mitch Murder - In The News.mp3
+Nov 27 13:04 : update: added CloudMusic/Mitch Murder - Knight Rider Theme.mp3
+Nov 27 13:04 : update: added CloudMusic/Mitch Murder - Melting Point.mp3
+Nov 27 13:04 : update: added CloudMusic/Mitch Murder - Playing For Keeps.mp3
+Nov 27 13:04 : update: added CloudMusic/Mitch Murder - Prime Operator.mp3
+Nov 27 13:04 : update: added CloudMusic/Ogre - Always Outnumbered, Never Outrun.mp3
+Nov 27 13:04 : update: added CloudMusic/Outrun Europa - Cougar Synth - Through the barrier.mp3
+Nov 27 13:04 : update: added CloudMusic/Perturbator - The Cult Of 2112.mp3
+Nov 27 13:04 : update: added CloudMusic/Power Glove - Blood Dragon Theme.mp3
+Nov 27 13:04 : update: added CloudMusic/Quixotic - Escape from Budapest.mp3
+Nov 27 13:04 : update: added CloudMusic/Quixotic - Highway Violence.mp3
+Nov 27 13:04 : update: added CloudMusic/Roex - A.T. Field.mp3
+Nov 27 13:04 : update: added CloudMusic/Sellorekt／LA Dreams - Age of Innocence.mp3
+Nov 27 13:04 : update: added CloudMusic/Sellorekt／LA Dreams - Black Rain.mp3
+Nov 27 13:04 : update: added CloudMusic/Sellorekt／LA Dreams - I'm calling you.mp3
+Nov 27 13:04 : update: added CloudMusic/Sellorekt／LA Dreams - Spotlights.mp3
+Nov 27 13:04 : update: added CloudMusic/Gost - Genesee Avenue.mp3
+Nov 27 13:04 : update: added CloudMusic/Gost - Master.mp3
+Nov 27 13:04 : update: added CloudMusic/Gost - Night Crawler.mp3
+Nov 27 13:04 : update: added CloudMusic/Gost - Sacrament.mp3
+Nov 27 13:04 : update: added CloudMusic/Gost - Tongue.mp3
+Nov 27 13:04 : update: added CloudMusic/Gridscape - Megavolt.mp3
+Nov 27 13:04 : update: added CloudMusic/Highway Superstar - 10-80.mp3
+Nov 27 13:04 : update: added CloudMusic/Highway Superstar - All Around the World (feat. Who Ha).mp3
+Nov 27 13:04 : update: added CloudMusic/Highway Superstar - Camaro 86.mp3
+Nov 27 13:04 : update: added CloudMusic/Biodrive - Midnight Affair.mp3
+Nov 27 13:04 : update: added CloudMusic/Choices.mp3
+Nov 27 13:04 : update: added CloudMusic/Cluster Buster - The Bodycount Continues.mp3
+Nov 27 13:04 : update: added CloudMusic/d.notive - Hell's Highway.mp3
+Nov 27 13:04 : update: added CloudMusic/d.notive - Streets of Passion.mp3
+Nov 27 13:04 : update: added CloudMusic/Daft Punk - Castor.mp3
+Nov 27 13:04 : update: added CloudMusic/Daft Punk - TRON Legacy (End Titles).mp3
+Nov 27 13:04 : update: added CloudMusic/Dance With The Dead - Invader.mp3
+Nov 27 13:04 : update: added CloudMusic/Dance With The Dead - ODYSSEY.mp3
+Nov 27 13:04 : update: added CloudMusic/Dance With The Dead - Waves.mp3
+Nov 27 13:04 : update: added CloudMusic/Garoad - A New Frontier.mp3
+Nov 27 13:04 : update: added CloudMusic/Highway Superstar - Halogen City.mp3
+Nov 27 13:04 : update: added CloudMusic/Nikki,Phaserland - Hot Stunner (Original).mp3
+Nov 27 13:04 : update: added CloudMusic/Le Matos - La Mer des Possibilités.mp3
+Nov 27 13:04 : update: added CloudMusic/Le Matos - Molly.mp3
+Nov 27 13:04 : update: added CloudMusic/Le Matos - Overdog.mp3
+Nov 27 13:04 : update: added CloudMusic/Le Matos - Retired.mp3
+Nov 27 13:04 : update: added CloudMusic/Lost Years - Controlled Faith.mp3
+Nov 27 13:04 : update: added CloudMusic/Lost Years - Converter.mp3
+Nov 27 13:04 : update: added CloudMusic/Lost Years - Park Avenue 1989.mp3
+Nov 27 13:04 : update: added CloudMusic/Lueur Verte - Emerald Rising.mp3
+Nov 27 13:04 : update: added CloudMusic/Lueur Verte - Onyx Noir.mp3
+Nov 27 13:04 : update: added CloudMusic/Mega Corp - The Final Lap.mp3
+Nov 27 13:04 : update: added CloudMusic/Mega Drive,Mega Drive - Stargate.mp3
+Nov 27 13:04 : update: added CloudMusic/Starlight - Memories.mp3
+Nov 27 13:04 : update: added CloudMusic/The Midnight - Daytona.mp3
+Nov 27 13:04 : update: added CloudMusic/The Midnight - Endless Summer.mp3
+Nov 27 13:04 : update: added CloudMusic/The Midnight - The Equaliser (Not Alone).mp3
+Nov 27 13:04 : update: added CloudMusic/Various Artists - all systems go.mp3
+Nov 27 13:04 : update: added CloudMusic/Vestron Vulture - You ＊＊＊＊ed the Devil, Rosemary!.mp3
+Nov 27 13:04 : update: added CloudMusic/VHS Glitch - Stellar Pursuit.mp3
+Nov 27 13:04 : update: added CloudMusic/Vincenzo Salvia - Summer Love (feat. Chrissy Valentine).mp3
+Nov 27 13:04 : update: added CloudMusic/Vincenzo Salvia - Towards the Light.mp3
+Nov 27 13:04 : update: added CloudMusic/Waveshaper - A Mission To Remember.mp3
+Nov 27 13:04 : update: added CloudMusic/MK Ultra - Tears In The Rain.mp3
+Nov 27 13:04 : update: added CloudMusic/Narctrax - Excalibur Galactica.mp3
+Nov 27 13:04 : update: added CloudMusic/New Arcades - Find a Way.mp3
+Nov 27 13:04 : update: added CloudMusic/Nightcrawler - The Legacy (Nightcrawler & Diana Gitallog).mp3
+Nov 27 13:04 : update: added CloudMusic/Nightcrawler,Vincenzo Salvia - Dystopia (Original).mp3
+Nov 27 13:04 : update: added CloudMusic/NightStop - Dangerous Desires.mp3
+Nov 27 13:04 : update: added CloudMusic/NightStop - She Dances In The Dark.mp3
+Nov 27 13:04 : update: added CloudMusic/NightStop - Streetwalker.mp3
+Nov 27 13:04 : update: added CloudMusic/Jordan F - So Close.mp3
+Nov 27 13:04 : update: added CloudMusic/Kavinsky - Testarossa SebAstian Remix - remix.mp3
+Nov 27 13:04 : update: added CloudMusic/Kick Puncher - Runner Gunner.mp3
+Nov 27 13:04 : update: added CloudMusic/Lazerhawk - Distant Signal 003.mp3
+Nov 27 13:04 : update: added CloudMusic/Lazerhawk - Distress Signal.mp3
+Nov 27 13:04 : update: added CloudMusic/Lazerhawk - Shoulder of Orion.mp3
+Nov 27 13:04 : update: added CloudMusic/Lazerhawk - So Close.mp3
+Nov 27 13:04 : update: added CloudMusic/Lazerpunk! - Nightcrawler.mp3
+Nov 27 13:04 : update: added CloudMusic/Decktonic - This Love Is Faux Real.mp3
+Nov 27 13:04 : update: added CloudMusic/Droid Bishop - Days Of The Running Man.mp3
+Nov 27 13:04 : update: added CloudMusic/Emil Rottmayer - Limit.mp3
+Nov 27 13:04 : update: added CloudMusic/FM-84 - Everything.mp3
+Nov 27 13:04 : update: added CloudMusic/Future City Records - I Am The Program.mp3
+Nov 27 13:04 : update: added CloudMusic/Future City Records - Sung-Thunder Love.mp3
+Nov 27 13:04 : update: added CloudMusic/Future City Records - Timecop 1983-Fading Away.mp3
+Nov 27 13:06 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 27 13:06 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 27 13:08 : update: added carpenter-brut/leather-teeth/01 - leather-teeth.mp3
+Nov 27 13:08 : update: added carpenter-brut/leather-teeth/02 - cheerleader-effect.mp3
+Nov 27 13:08 : update: added carpenter-brut/leather-teeth/03 - sunday-lunch.mp3
+Nov 27 13:08 : update: added carpenter-brut/leather-teeth/04 - monday-hunt.mp3
+Nov 27 13:08 : update: added carpenter-brut/leather-teeth/05 - inferno-galore.mp3
+Nov 27 13:08 : update: added carpenter-brut/leather-teeth/06 - beware-the-beast.mp3
+Nov 27 13:08 : update: added carpenter-brut/leather-teeth/07 - hairspray-hurricane.mp3
+Nov 27 13:08 : update: added carpenter-brut/leather-teeth/08 - end-titles.mp3
+Nov 27 13:08 : update: added carpenter-brut/trilogy/01 - escape-from-midwich-valley.mp3
+Nov 27 13:08 : update: added carpenter-brut/trilogy/02 - disco-zombi-italia.mp3
+Nov 27 13:08 : update: added carpenter-brut/trilogy/03 - la-venice-bitch-80s.mp3
+Nov 27 13:08 : update: added carpenter-brut/trilogy/04 - wake-up-the-president.mp3
+Nov 27 13:08 : update: added carpenter-brut/trilogy/05 - 347-midnight-demons.mp3
+Nov 27 13:08 : update: added carpenter-brut/trilogy/06 - le-perv.mp3
+Nov 27 13:08 : update: added carpenter-brut/trilogy/07 - roller-mobster.mp3
+Nov 27 13:08 : update: added carpenter-brut/trilogy/08 - meet-matt-stryker.mp3
+Nov 27 13:08 : update: added carpenter-brut/trilogy/09 - obituary.mp3
+Nov 27 13:08 : update: added carpenter-brut/trilogy/10 - looking-for-tracy-tzu.mp3
+Nov 27 13:08 : update: added carpenter-brut/trilogy/11 - sexkiller-on-the-loose.mp3
+Nov 27 13:08 : update: added carpenter-brut/trilogy/12 - hangem-all.mp3
+Nov 27 13:08 : update: added carpenter-brut/trilogy/13 - division-ruine.mp3
+Nov 27 13:08 : update: added carpenter-brut/trilogy/14 - paradise-warfare.mp3
+Nov 27 13:08 : update: added carpenter-brut/trilogy/15 - run-sally-run.mp3
+Nov 27 13:08 : update: added carpenter-brut/trilogy/16 - turbo-killer.mp3
+Nov 27 13:08 : update: added carpenter-brut/trilogy/17 - anarchy-road.mp3
+Nov 27 13:08 : update: added carpenter-brut/trilogy/18 - invasion-ad.mp3
+Nov 27 13:08 : update: added dana-jean-phoenix/le-mirage/01 - le-mirage.mp3
+Nov 27 13:08 : update: added dana-jean-phoenix/le-mirage/02 - in-this-world.mp3
+Nov 27 13:08 : update: added dana-jean-phoenix/le-mirage/03 - past-tense.mp3
+Nov 27 13:08 : update: added dana-jean-phoenix/le-mirage/04 - inside-of-view.mp3
+Nov 27 13:08 : update: added dana-jean-phoenix/le-mirage/05 - my-delorean-lazer-rays.mp3
+Nov 27 13:08 : update: added dana-jean-phoenix/le-mirage/06 - modern-fairytale.mp3
+Nov 27 13:08 : update: added dana-jean-phoenix/le-mirage/07 - beating-machine.mp3
+Nov 27 13:08 : update: added dana-jean-phoenix/le-mirage/08 - running-wild.mp3
+Nov 27 13:08 : update: added dana-jean-phoenix/le-mirage/09 - in-borrowed-times.mp3
+Nov 27 13:08 : update: added dana-jean-phoenix/le-mirage/10 - komplicated.mp3
+Nov 27 13:08 : update: added dana-jean-phoenix/le-mirage/11 - get-it-tonight.mp3
+Nov 27 13:08 : update: added dana-jean-phoenix/le-mirage/12 - real-deal.mp3
+Nov 27 13:08 : update: added dana-jean-phoenix/le-mirage/13 - in-this-world-remix-bandcamp-bonus.mp3
+Nov 27 13:08 : update: added deadlife/bionic-chrysalis/01 - entrée.mp3
+Nov 27 13:08 : update: added deadlife/bionic-chrysalis/02 - deviant.mp3
+Nov 27 13:08 : update: added deadlife/bionic-chrysalis/03 - trash.mp3
+Nov 27 13:08 : update: added deadlife/bionic-chrysalis/04 - maverick.mp3
+Nov 27 13:08 : update: added deadlife/bionic-chrysalis/05 - aurora.mp3
+Nov 27 13:08 : update: added deadlife/bionic-chrysalis/06 - perdition.mp3
+Nov 27 13:08 : update: added deadlife/bionic-chrysalis/07 - unto-ruin.mp3
+Nov 27 13:08 : update: added deadlife/bionic-chrysalis/08 - remember.mp3
+Nov 27 13:08 : update: added deadlife/bionic-chrysalis/09 - within.mp3
+Nov 27 13:08 : update: added deadlife/bionic-chrysalis/10 - avenge-me.mp3
+Nov 27 13:08 : update: added deadlife/bionic-chrysalis/11 - boss.mp3
+Nov 27 13:08 : update: added deadlife/bionic-chrysalis/12 - for-you.mp3
+Nov 27 13:08 : update: added dradal pissup/Beyond Synth - 27 - Droid Bishop Beyond The Blue.mp3
+Nov 27 13:08 : update: added dradal pissup/Boredom on a droid with a litte freestyle at the end.mp3
+Nov 27 13:08 : update: added dradal pissup/Days Of The Running Man.mp3
+Nov 27 13:08 : update: added dradal pissup/Droid Bishop - In Your Love (Dream Fiend Remix).mp3
+Nov 27 13:08 : update: added dradal pissup/Droid Bishop - In Your Love (September 87 Remix).mp3
+Nov 27 13:08 : update: added dradal pissup/Droid Bishop - In Your Love (Tommy '86 Remix)  Media Blackout MBO043.mp3
+Nov 27 13:08 : update: added dradal pissup/Droid Bishop feat. Sam Sparro – “Out of My Mind” [NoisePorn Exclusive].mp3
+Nov 27 13:08 : update: added dradal pissup/In My DeLorean.mp3
+Nov 27 13:08 : update: added dradal pissup/In Your Love.mp3
+Nov 27 13:08 : update: added dradal pissup/Light Years - Droid Bishop.mp3
+Nov 27 13:08 : update: added dradal pissup/Moon Dancer.mp3
+Nov 27 13:08 : update: added dradal pissup/Nightland.mp3
+Nov 27 13:08 : update: added dradal pissup/Through The Universe.mp3
+Nov 27 13:08 : update: added dradal pissup/Vanisher.mp3
+Nov 27 13:08 : update: added Droid Bishop - Beyond The Blue/Droid Bishop - Beyond The Blue - 01 Vanisher.mp3
+Nov 27 13:08 : update: added Droid Bishop - Beyond The Blue/Droid Bishop - Beyond The Blue - 02 Out Of My Mind (Ft. Sam Sparro).mp3
+Nov 27 13:08 : update: added Droid Bishop - Beyond The Blue/Droid Bishop - Beyond The Blue - 03 Beyond The Blue.mp3
+Nov 27 13:08 : update: added Droid Bishop - Beyond The Blue/Droid Bishop - Beyond The Blue - 04 Letter To Earth.mp3
+Nov 27 13:08 : update: added Droid Bishop - Beyond The Blue/Droid Bishop - Beyond The Blue - 05 Moon Dancer.mp3
+Nov 27 13:08 : update: added Droid Bishop - Beyond The Blue/Droid Bishop - Beyond The Blue - 06 In My DeLorean.mp3
+Nov 27 13:08 : update: added Droid Bishop - Beyond The Blue/Droid Bishop - Beyond The Blue - 07 In Your Love.mp3
+Nov 27 13:08 : update: added Droid Bishop - Beyond The Blue/Droid Bishop - Beyond The Blue - 08 The Infinite Dream.mp3
+Nov 27 13:08 : update: added Droid Bishop - Beyond The Blue/Droid Bishop - Beyond The Blue - 09 Born Of The Stars.mp3
+Nov 27 13:08 : update: added Droid Bishop - Beyond The Blue/Droid Bishop - Beyond The Blue - 10 Through The Universe.mp3
+Nov 27 13:08 : update: added Droid Bishop - Beyond The Blue/Droid Bishop - Beyond The Blue - 11 Human.mp3
+Nov 27 13:08 : update: added Droid Bishop - Beyond The Blue/Droid Bishop - Beyond The Blue - 12 In The End.mp3
+Nov 27 13:08 : update: added electro-freaks/efp-vol-06-more-electro-than-electro/01 - painting-the-prototype-danger-run.mp3
+Nov 27 13:08 : update: added electro-freaks/efp-vol-06-more-electro-than-electro/02 - blind-rock-it-steady.mp3
+Nov 27 13:08 : update: added electro-freaks/efp-vol-06-more-electro-than-electro/03 - zircon-across-the-ocean.mp3
+Nov 27 13:08 : update: added electro-freaks/efp-vol-06-more-electro-than-electro/04 - leitbur-i-will-always-be-your-constant.mp3
+Nov 27 13:08 : update: added electro-freaks/efp-vol-06-more-electro-than-electro/05 - mpegasus-homespace.mp3
+Nov 27 13:08 : update: added electro-freaks/efp-vol-06-more-electro-than-electro/06 - dm-ashura-vs-sanxion7-ethereality.mp3
+Nov 27 13:08 : update: added electro-freaks/efp-vol-06-more-electro-than-electro/07 - djjd-intergalactic-arsenal.mp3
+Nov 27 13:08 : update: added electro-freaks/efp-vol-06-more-electro-than-electro/08 - vincenzo-salvia-towards-the-light.mp3
+Nov 27 13:08 : update: added electro-freaks/efp-vol-06-more-electro-than-electro/09 - bearcraft-ghost.mp3
+Nov 27 13:08 : update: added electro-freaks/efp-vol-06-more-electro-than-electro/10 - decktonic-this-love-is-faux-real.mp3
+Nov 27 13:08 : update: added electro-freaks/efp-vol-06-more-electro-than-electro/11 - odd-year-the-reverb-junkie-dont-say-it-didnt-hurt-club-mix.mp3
+Nov 27 13:08 : update: added electro-freaks/efp-vol-06-more-electro-than-electro/12 - hollidayrain-let-me-go-feat-russell-elliott.mp3
+Nov 27 13:08 : update: added electro-freaks/efp-vol-06-more-electro-than-electro/13 - rchetype-arcturus-feat-wolfgun.mp3
+Nov 27 13:08 : update: added electro-freaks/efp-vol-06-more-electro-than-electro/14 - nervous_testpilot-holding-fire.mp3
+Nov 27 13:08 : update: added electro-freaks/efp-vol-06-more-electro-than-electro/15 - flexstyle-stand-with-me.mp3
+Nov 27 13:08 : update: added electro-freaks/efp-vol-06-more-electro-than-electro/16 - misfitchris-night-toneair.mp3
+Nov 27 13:08 : update: added electro-freaks/efp-vol-06-more-electro-than-electro/17 - fetal-pulse-hyper-jump.mp3
+Nov 27 13:08 : update: added electro-freaks/efp-vol-06-more-electro-than-electro/18 - color-theory-slot-machine.mp3
+Nov 27 13:08 : update: added electro-freaks/efp-vol-06-more-electro-than-electro/19 - tad-rees-aka-solo-mars-descent-efp-mix.mp3
+Nov 27 13:08 : update: added electro-freaks/efp-vol-06-more-electro-than-electro/20 - sum-oblivion-alex-gloworld-instrumental-remix.mp3
+Nov 27 13:08 : update: added electro-freaks/efp-vol-06-more-electro-than-electro/21 - glass-department-sunlight.mp3
+Nov 27 13:08 : update: added electro-freaks/efp-vol-06-more-electro-than-electro/22 - phrakture-no-illusion.mp3
+Nov 27 13:08 : update: added electro-freaks/efp-vol-06-more-electro-than-electro/23 - theblackparrot-bandit.mp3
+Nov 27 13:08 : update: added electro-freaks/efp-vol-06-more-electro-than-electro/24 - jamison-randall-maybe-feat-category5.mp3
+Nov 27 13:08 : update: added furi-original-soundtrack/01 - carpenter-brut-time-to-wake-up.mp3
+Nov 27 13:08 : update: added furi-original-soundtrack/02 - danger-danger-624.mp3
+Nov 27 13:08 : update: added furi-original-soundtrack/03 - carpenter-brut-enraged.mp3
+Nov 27 13:08 : update: added furi-original-soundtrack/04 - waveshaper-a-picture-in-motion.mp3
+Nov 27 13:08 : update: added furi-original-soundtrack/05 - waveshaper-wisdom-of-rage.mp3
+Nov 27 13:08 : update: added furi-original-soundtrack/06 - lorn-unraveled.mp3
+Nov 27 13:08 : update: added furi-original-soundtrack/07 - lorn-set-me-free.mp3
+Nov 27 13:08 : update: added furi-original-soundtrack/08 - carpenter-brut-what-we-fight-for.mp3
+Nov 27 13:08 : update: added furi-original-soundtrack/09 - the-toxic-avenger-make-this-right.mp3
+Nov 27 13:08 : update: added furi-original-soundtrack/10 - the-toxic-avenger-make-this-right-remix.mp3
+Nov 27 13:08 : update: added furi-original-soundtrack/11 - scattle-love-and-madness.mp3
+Nov 27 13:08 : update: added furi-original-soundtrack/12 - carpenter-brut-youre-mine.mp3
+Nov 27 13:08 : update: added furi-original-soundtrack/13 - kn1ght-a-big-day.mp3
+Nov 27 13:08 : update: added furi-original-soundtrack/14 - kn1ght-something-memorable.mp3
+Nov 27 13:08 : update: added furi-original-soundtrack/15 - waveshaper-a-monster.mp3
+Nov 27 13:08 : update: added furi-original-soundtrack/16 - waveshaper-you-are-the-end.mp3
+Nov 27 13:08 : update: added furi-original-soundtrack/17 - the-toxic-avenger-my-only-chance.mp3
+Nov 27 13:08 : update: added furi-original-soundtrack/18 - scattle-shambles.mp3
+Nov 27 13:08 : update: added furi-original-soundtrack/19 - danger-danger-753.mp3
+Nov 27 13:08 : update: added furi-original-soundtrack/20 - danger-danger-802.mp3
+Nov 27 13:08 : update: added furi-original-soundtrack/21 - danger-danger-1906.mp3
+Nov 27 13:08 : update: added furi-original-soundtrack/22 - danger-danger-1907.mp3
+Nov 27 13:08 : update: added gost/behemoth/01 - beyond.mp3
+Nov 27 13:08 : update: added gost/behemoth/02 - genesee-avenue.mp3
+Nov 27 13:08 : update: added gost/behemoth/03 - night-crawler.mp3
+Nov 27 13:08 : update: added gost/behemoth/04 - master.mp3
+Nov 27 13:08 : update: added gost/behemoth/05 - reign-in-hell.mp3
+Nov 27 13:08 : update: added gost/behemoth/06 - tongue.mp3
+Nov 27 13:08 : update: added gost/behemoth/07 - without-a-trace-feat-hayley-stewart.mp3
+Nov 27 13:08 : update: added gost/behemoth/08 - ripper.mp3
+Nov 27 13:08 : update: added gost/behemoth/09 - bathory-bitch.mp3
+Nov 27 13:08 : update: added gost/behemoth/10 - sacrament.mp3
+Nov 27 13:08 : update: added gost/behemoth/11 - behemoth.mp3
+Nov 27 13:08 : update: added gost/behemoth/12 - reign-in-hell-dance-with-the-dead-remix.mp3
+Nov 27 13:08 : update: added gost/behemoth/13 - behemoth-perturbator-remix.mp3
+Nov 27 13:08 : update: added lost_shapes_reinvented/electric_space_year_(bachelor_of_hearts).mp3
+Nov 27 13:08 : update: added lost_shapes_reinvented/waveshaper-electric_space_year_(moustache_machine_remix).mp3
+Nov 27 13:08 : update: added lost_shapes_reinvented/waveshaper-portal_(powernerd_remix).mp3
+Nov 27 13:08 : update: added lost_shapes_reinvented/waveshaper-space_romance_(acidulé_remix).mp3
+Nov 27 13:08 : update: added lost_shapes_reinvented/waveshaper-stockholm_2358_(acidulé_remix).mp3
+Nov 27 13:08 : update: added lost_shapes_reinvented/waveshaper-stockholm_2358_(baldocaster_remix).mp3
+Nov 27 13:08 : update: added lost_shapes_reinvented/waveshaper-the_plan_(atom_delta_remix).mp3
+Nov 27 13:08 : update: added lost_shapes_reinvented/waveshaper-the_year_is_2003_(oscillian_remix).mp3
+Nov 27 13:08 : update: added mitch-murder/current-events/01 - looking-back.mp3
+Nov 27 13:08 : update: added mitch-murder/current-events/02 - frantic-aerobics.mp3
+Nov 27 13:08 : update: added mitch-murder/current-events/03 - in-the-news.mp3
+Nov 27 13:08 : update: added mitch-murder/current-events/04 - night-train.mp3
+Nov 27 13:08 : update: added mitch-murder/current-events/05 - palmers-arcade.mp3
+Nov 27 13:08 : update: added mitch-murder/current-events/06 - telefuture-theme.mp3
+Nov 27 13:08 : update: added mitch-murder/current-events/07 - intermission.mp3
+Nov 27 13:08 : update: added mitch-murder/current-events/08 - slipstream.mp3
+Nov 27 13:08 : update: added mitch-murder/current-events/09 - shores-of-orion.mp3
+Nov 27 13:08 : update: added mitch-murder/current-events/10 - milk-run.mp3
+Nov 27 13:08 : update: added mitch-murder/current-events/11 - inner-city-chronicles.mp3
+Nov 27 13:08 : update: added mitch-murder/current-events/12 - exodus.mp3
+Nov 27 13:08 : update: added mitch-murder/mitch murder - the touch.mp3
+Nov 27 13:08 : update: added mitch-murder/Mitch Murder- The Touch (Nite Sprite Remix).mp3
+Nov 27 13:08 : update: added mitch-murder/the-real-deal/01 - call-waiting.mp3
+Nov 27 13:08 : update: added mitch-murder/the-real-deal/02 - digital-marketplace-strategy.mp3
+Nov 27 13:08 : update: added mitch-murder/the-real-deal/03 - breakaway.mp3
+Nov 27 13:08 : update: added mitch-murder/the-real-deal/04 - outpost-alpha.mp3
+Nov 27 13:08 : update: added mitch-murder/the-real-deal/05 - prime-operator.mp3
+Nov 27 13:08 : update: added Waveshaper/66-mhz/Single - 66-mhz.mp3
+Nov 27 13:08 : update: added Waveshaper/artifact/01 - 1-peaceful-morning.mp3
+Nov 27 13:08 : update: added Waveshaper/artifact/02 - 2-decoding-myself.mp3
+Nov 27 13:08 : update: added Waveshaper/artifact/03 - 3-departure.mp3
+Nov 27 13:08 : update: added Waveshaper/artifact/04 - 4-artifact.mp3
+Nov 27 13:08 : update: added Waveshaper/artifact/05 - 5-loader-interlude.mp3
+Nov 27 13:08 : update: added Waveshaper/artifact/06 - 6-legacy.mp3
+Nov 27 13:08 : update: added Waveshaper/artifact/07 - 7-100mhz.mp3
+Nov 27 13:08 : update: added Waveshaper/artifact/08 - 8-the-guardian.mp3
+Nov 27 13:08 : update: added Waveshaper/artifact/09 - 9-desert-dawn.mp3
+Nov 27 13:08 : update: added Waveshaper/artifact/10 - 10-let-s-escape-together.mp3
+Nov 27 13:08 : update: added Waveshaper/artifact/11 - 11-jupiter-hours.mp3
+Nov 27 13:08 : update: added Waveshaper/retro-future/01 - cyborg-telekinetics.mp3
+Nov 27 13:08 : update: added Waveshaper/retro-future/02 - electrical-feelings.mp3
+Nov 27 13:08 : update: added Waveshaper/retro-future/03 - so-french-disco.mp3
+Nov 27 13:08 : update: added Waveshaper/retro-future/04 - dangerous-love.mp3
+Nov 27 13:08 : update: added Waveshaper/retro-future/05 - surveillance.mp3
+Nov 27 13:08 : update: added Waveshaper/retro-future/06 - cabin-fever-in-space.mp3
+Nov 27 13:08 : update: added Waveshaper/retro-future/07 - home-at-last.mp3
+Nov 27 13:08 : update: added Waveshaper/velocity/01 - sequence-code.mp3
+Nov 27 13:08 : update: added Waveshaper/velocity/02 - choices.mp3
+Nov 27 13:08 : update: added Waveshaper/velocity/03 - mega-fighter.mp3
+Nov 27 13:08 : update: added Waveshaper/velocity/04 - 16-bit-computer.mp3
+Nov 27 13:08 : update: added Waveshaper/velocity/05 - the-sphere.mp3
+Nov 27 13:08 : update: added Waveshaper/velocity/06 - outer-fields.mp3
+Nov 27 13:15 : exception: Failed to pause "My Pulse Output" (pulse): failed to connect the stream: Connection terminated
+Nov 27 13:21 : player: played "CloudMusic/Le Matos - La Mer des Possibilités.mp3"
+Nov 27 13:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 27 13:21 : config: option 'device' on line 32 was not recognized
+Nov 27 13:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 27 13:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 27 13:30 : client: [0] opened from local
+Nov 27 13:31 : client: [0] closed
+Nov 27 13:31 : client: [1] opened from local
+Nov 27 13:31 : client: [1] closed
+Nov 27 13:31 : client: [2] opened from local
+Nov 27 13:44 : player: played "CloudMusic/Le Matos - La Mer des Possibilités.mp3"
+Nov 27 17:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 27 17:12 : config: option 'device' on line 32 was not recognized
+Nov 27 17:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 27 17:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 27 17:12 : client: [0] opened from local
+Nov 27 17:13 : client: [0] closed
+Nov 27 17:13 : client: [1] opened from local
+Nov 27 17:13 : client: [1] closed
+Nov 27 17:13 : client: [2] opened from local
+Nov 27 17:15 : client: [2] closed
+Nov 27 17:16 : client: [3] opened from local
+Nov 27 17:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 27 17:18 : client: [3] closed
+Nov 27 17:18 : client: [4] opened from local
+Nov 27 23:37 : client: [4] closed
+Nov 28 01:13 : player: played "/home/thouther/Music/carpenter-brut/trilogy/12 - hangem-all.mp3"
+Nov 28 12:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 28 12:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 28 12:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 28 12:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 28 12:22 : config: option 'device' on line 32 was not recognized
+Nov 29 00:00 : player: played "/home/thouther/Music/carpenter-brut/trilogy/12 - hangem-all.mp3"
+Nov 29 11:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 29 11:10 : config: option 'device' on line 32 was not recognized
+Nov 29 11:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 29 11:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 29 17:34 : player: played "/home/thouther/Music/carpenter-brut/trilogy/12 - hangem-all.mp3"
+Nov 29 17:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 29 17:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 29 17:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 29 17:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 29 17:59 : config: option 'device' on line 32 was not recognized
+Nov 29 18:32 : player: played "/home/thouther/Music/carpenter-brut/trilogy/12 - hangem-all.mp3"
+Nov 30 03:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 03:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 03:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 03:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 03:03 : config: option 'device' on line 32 was not recognized
+Nov 29 19:05 : player: played "/home/thouther/Music/carpenter-brut/trilogy/12 - hangem-all.mp3"
+Nov 30 04:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 04:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 04:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 04:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 04:52 : config: option 'device' on line 32 was not recognized
+Nov 29 20:15 : player: played "/home/thouther/Music/carpenter-brut/trilogy/12 - hangem-all.mp3"
+Nov 29 20:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 29 20:39 : config: option 'device' on line 32 was not recognized
+Nov 29 20:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 29 20:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 29 20:56 : player: played "/home/thouther/Music/carpenter-brut/trilogy/12 - hangem-all.mp3"
+Nov 29 20:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 29 20:56 : config: option 'device' on line 32 was not recognized
+Nov 29 20:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 29 20:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 29 21:13 : client: [0] opened from local
+Nov 29 22:08 : client: [0] closed
+Nov 30 02:00 : player: played "/home/thouther/Music/carpenter-brut/trilogy/12 - hangem-all.mp3"
+Nov 30 13:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 13:29 : config: option 'device' on line 32 was not recognized
+Nov 30 13:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 13:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 13:30 : client: [0] opened from local
+Nov 30 13:33 : client: [0] closed
+Nov 30 13:33 : client: [1] opened from local
+Nov 30 13:35 : client: [1] closed
+Nov 30 13:35 : client: [2] opened from local
+Nov 30 13:37 : client: [2] closed
+Nov 30 13:37 : client: [3] opened from local
+Dec 01 03:27 : player: played "/home/thouther/Music/carpenter-brut/trilogy/12 - hangem-all.mp3"
+Dec 01 12:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 01 12:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 01 12:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 01 12:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 01 12:05 : config: option 'device' on line 32 was not recognized
+Dec 01 04:07 : player: played "/home/thouther/Music/carpenter-brut/trilogy/12 - hangem-all.mp3"
+Dec 01 04:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 01 04:10 : config: option 'device' on line 32 was not recognized
+Dec 01 04:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 01 04:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 01 04:15 : client: [0] opened from local
+Dec 01 04:28 : player: played "/home/thouther/Music/carpenter-brut/trilogy/12 - hangem-all.mp3"
+Dec 01 12:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 01 12:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 01 12:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 01 12:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 01 12:14 : config: option 'device' on line 32 was not recognized
+Dec 01 12:20 : client: [0] opened from local
+Dec 01 19:38 : player: played "/home/thouther/Music/carpenter-brut/trilogy/12 - hangem-all.mp3"
+Dec 02 10:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 02 10:19 : config: option 'device' on line 32 was not recognized
+Dec 02 10:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 02 10:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 02 11:37 : client: [0] opened from local

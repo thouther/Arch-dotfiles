@@ -1,0 +1,12 @@
+session_name: what
+windows:
+- focus: 'true'
+  layout: 9bdd,177x60,0,0[177x30,0,0,0,177x29,0,31{88x29,0,31,1,88x29,89,31,2}]
+  options: {}
+  panes:
+  - zsh
+  - zsh
+  - focus: 'true'
+    shell_command: zsh
+  start_directory: /home/thouther
+  window_name: zsh

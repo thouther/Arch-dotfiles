@@ -1,0 +1,174 @@
+# Zathura configuration file
+# See man `man zathurarc'
+
+# Open document in fit-width mode by default
+set adjust-open "best-fit"
+
+# One page per row by default
+set pages-per-row 1
+
+#stop at page boundries
+set scroll-page-aware "true"
+set smooth-scroll "true"
+set scroll-full-overlap 0.01
+set scroll-step 100
+
+#zoom settings
+set zoom-min 10
+set guioptions ""
+
+set scroll-step 50
+unmap f
+map f toggle_fullscreen
+map [fullscreen] f toggle_fullscreen
+
+#---------basic theme swtiching------#
+
+#set recolor                     true
+#set recolor-keephue             true      # keep original color
+set render-loading "false"
+
+#---------solarized-dark-------------#
+
+#set recolor-darkcolor "#93A1A1"
+#set recolor-lightcolor "#002B36"
+
+#---------solarized-light------------#
+
+#set recolor-lightcolor          "#fdfbe3" # base3
+#set recolor-darkcolor           "#839496" # base00
+
+#---------------Dark-----------------#
+
+# set recolor-lightcolor "#000000" #00
+# set recolor-darkcolor "#E0E0E0" #06
+# set recolor-reverse-video "true"
+
+#------------------------------------#
+
+# zathurarc-dark
+
+set font "LiterationMono NF 15"
+# set default-bg "#000000" #00
+# set default-fg "#F7F7F6" #01
+# 
+# set statusbar-fg "#B0B0B0" #04
+# set statusbar-bg "#202020" #01
+# 
+# set inputbar-bg "#151515" #00 currently not used
+# set inputbar-fg "#FFFFFF" #02
+# 
+# set notification-error-bg "#AC4142" #08
+# set notification-error-fg "#151515" #00
+# 
+# set notification-warning-bg "#AC4142" #08
+# set notification-warning-fg "#151515" #00
+# 
+# set highlight-color "#F4BF75" #0A
+# set highlight-active-color "#6A9FB5" #0D
+# 
+# set completion-highlight-fg "#151515" #02
+# set completion-highlight-bg "#90A959" #0C
+# 
+# set completion-bg "#303030" #02
+# set completion-fg "#E0E0E0" #0C
+# 
+# set notification-bg "#90A959" #0B
+# set notification-fg "#151515" #00
+# 
+# set recolor "true"
+# set recolor-lightcolor "#000000" #00
+# set recolor-darkcolor "#E0E0E0" #06
+# set recolor-reverse-video "true"
+# set recolor-keephue "true"
+
+
+# zathurarc-solarized-dark
+#set notification-error-bg       "#586e75" # base01  # seem not work
+#set notification-error-fg       "#dc322f" # red
+#set notification-warning-bg     "#586e75" # base01
+#set notification-warning-fg     "#dc322f" # red
+#set notification-bg             "#586e75" # base01
+#set notification-fg             "#b58900" # yellow
+#
+#set completion-group-bg         "#002b36" # base03
+#set completion-group-fg         "#839496" # base0
+#set completion-bg               "#073642" # base02
+#set completion-fg               "#93a1a1" # base1
+#set completion-highlight-bg     "#586e75" # base01
+#set completion-highlight-fg     "#eee8d5" # base2
+#
+## Define the color in index mode
+#set index-bg                   "#073642" # base02
+#set index-fg                   "#93a1a1" # base1
+#set index-active-bg             "#586e75" # base01
+#set index-active-fg             "#eee8d5" # base2
+#
+#set inputbar-bg                 "#586e75" # base01
+#set inputbar-fg                 "#eee8d5" # base2
+#
+#set statusbar-bg                "#073642" # base02
+#set statusbar-fg                "#93a1a1" # base1
+#
+#set highlight-color             "#657b83" # base00  # hightlight match when search keyword(vim's /)
+#set highlight-active-color      "#268bd2" # blue
+#
+#set default-bg                  "#073642" # base02
+#set default-fg                  "#93a1a1" # base1
+#set render-loading              true
+#set render-loading-fg           "#073642" # base02
+#set render-loading-bg           "#073642" # base02
+
+# Recolor book content's color
+#set recolor                     true
+#set recolor-lightcolor          "#073642" # base02
+#set recolor-darkcolor           "#93a1a1" # base1
+#set recolor-keephue             true      # keep original color
+
+# ? color
+#set recolor-darkcolor "#93A1A1"
+#set recolor-lightcolor "#002B36"
+
+# zathurarc-solarized-light
+#set notification-error-bg       "#eee8d5" # base2  # seem not work
+#set notification-error-fg       "#dc322f" # red
+#set notification-warning-bg     "#eee8d5" # base2
+#set notification-warning-fg     "#dc322f" # red
+#set notification-bg             "#eee8d5" # base2
+#set notification-fg             "#368bd2" # blue
+#
+#set completion-bg               "#fdfbe3" # base3
+#set completion-fg               "#839496" # base00
+#set completion-group-bg         "#eee8d5" # base2
+#set completion-group-fg         "#586e75" # base01
+#set completion-highlight-bg     "#93a1a1" # base1
+#set completion-highlight-fg     "#073642" # base02
+#
+## Define the color in index mode
+#set index-bg                   "#fdfbe3" # base3
+#set index-fg                   "#839496" # base00
+#set index-active-bg             "#eee8d5" # base2
+#set index-active-fg             "#586e75" # base01
+#
+#set inputbar-bg                 "#93a1a1" # base1
+#set inputbar-fg                 "#073642" # base02
+#
+#set statusbar-bg                "#fdfbe3" # base3
+#set statusbar-fg                "#839496" # base00
+#
+#set highlight-color             "#839496" # base0  # hightlight match when search keyword(vim's /)
+#set highlight-active-color      "#cb3616" # orange
+#
+#set default-bg                  "#fdfbe3" # base3
+#set default-fg                  "#839496" # base00
+#set render-loading              true
+#set render-loading-fg           "#fdfbe3" # base3
+#set render-loading-bg           "#fdfbe3" # base3
+#
+## Recolor book content's color
+## verbose
+## verbose
+#set recolor-lightcolor          "#fdfbe3" # base3
+#set recolor-darkcolor           "#839496" # base00
+#set recolor                     "true"
+##set recolor-keephue             true      # keep original recolor

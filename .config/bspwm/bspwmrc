@@ -1,0 +1,71 @@
+#! /bin/sh
+
+pkill sxhkd
+sxhkd -m -1 &
+
+pkill compton
+compton -b --config $HOME/.config/compton.conf &
+
+#flashfocus &
+
+pkill dunst
+dunst &
+
+pkill ncmpcpp
+pkill cava
+
+pkill mpd
+mpd &
+
+pkill redshift
+pkill redshift-gtk
+redshift-gtk &
+
+xsetroot -cursor_name left_ptr &
+#feh --bg-fill $(find $HOME/Pictures/Wallpaper/ | shuf -n1)
+
+sudo pkill clash
+sudo clash -d ~/.config/clash/ &
+
+#pkill shadowsocks-local
+#shadowsocks-local -c ~/SSR/config.json &
+
+xrandr --output DP1 --primary --output eDP1
+#bspc monitor -d I II III IV V VI VII VIII IX X
+bspc monitor DP1 -d 1 2 3 4 5 6 7 8 9
+#bspc monitor eDP1 -d 1
+# bspc monitor eDP-1 -d 1 2 3 4 5 6 7 8 9
+mons -e right
+
+# $HOME/Script/pywal/pywal.sh
+$HOME/Script/pywal/wal-reset.sh
+killall -q polybar
+#while pgrep -u $UID -x polybar >/dev/null; do sleep 1; done
+polybar mainbar-bspwm -r &
+# polybar mainbar-bspwm-2 -r &
+
+bspc config border_width         4
+bspc config window_gap           8
+bspc config top_padding          0
+
+# source the colors.
+. "${HOME}/.cache/wal/colors.sh"
+
+# Set the border colors.
+bspc config normal_border_color "$color1"
+bspc config active_border_color "$color2"
+bspc config focused_border_color "$color15"
+bspc config presel_feedback_color "$color1"
+
+bspc config split_ratio           0.52
+bspc config borderless_monocle    true
+bspc config gapless_monocle       true
+bspc config focus_follows_pointer true
+bspc config history_aware_focus   true
+
+#bspc rule -a Gimp desktop='^8' state=floating follow=on
+#bspc rule -a Chromium desktop='^2'
+#bspc rule -a mplayer2 state=floating
+#bspc rule -a Kupfer.py focus=on
+#bspc rule -a Screenkey manage=off
+bspc rule --add steam-native desktop='^9' follow=on
