@@ -36,7 +36,7 @@ function install_Emacs {
     sudo pacman -S --noconfirm emacs
     git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
     rm -rf $HOME/.spacemacs
-    ln -sf "$PWD"/.spacemacs $HOME/.spacmacs
+    ln -sf "$PWD"/.spacemacs $HOME/.spacemacs
   fi
 }
 
@@ -206,3 +206,9 @@ function install_Selected_Tools {
   fi
 }
 
+function install_firefox {
+  
+  if ask "`color_orange "Install firefox with all UserChrome.css?"`" Y; then
+    sudo pacman -S --noconfirm firefox
+  fi
+}

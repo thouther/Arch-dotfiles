@@ -1,6 +1,12 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
+# load zgen
+source "${HOME}/.zgen/zgen.zsh"
+
+# load fasd
+eval "$(fasd --init auto)"
+
 export TERM="xterm-256color"
 # Path to your oh-my-zsh installation.
 export ZSH="/home/thouther/.oh-my-zsh"
@@ -97,6 +103,8 @@ POWERLEVEL9K_SHORTEN_STRATEGY="truncate_beginning"
 plugins=(
         git
         fzf
+        fd
+        autojump
         zsh-autosuggestions
         zsh-syntax-highlighting
         themes
@@ -175,6 +183,11 @@ alias sbd="cd ~/Build/BaiduPCS-Go-v3.5.6-linux-amd64 && sudo ./BaiduPCS-Go"
 alias bd="cd ~/Build/BaiduPCS-Go-v3.5.6-linux-amd64 && ./BaiduPCS-Go"
 alias netease-cloud-music="netease-cloud-music --force-device-scale-factor=1.5"
 alias sdcv="sdcv -c"
+alias sogou="fcitx | sogou-qimpanel &"
+
+alias v='f -e vim' # quick opening files with vim
+alias m='f -e mpv' # quick opening files with mplayer
+alias o='a -e xdg-open' # quick opening files with xdg-open
 
 
 export PATH=~/.local/bin:$PATH
@@ -194,3 +207,10 @@ export PATH="$PATH:$NPM_PACKAGES/bin"
 export MANPATH="${MANPATH-$(manpath)}:$NPM_PACKAGES/share/man"
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+
+source ~/.config/lf/LF_ICON
+
+export DOTPATH=$HOME/arch-dotfiles
+alias mode=". ${DOTPATH}/.config/bspwm/rules/monitor-detect.sh"
+
+[[ -s /etc/profile.d/autojump.sh ]] && source /etc/profile.d/autojump.sh

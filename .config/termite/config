@@ -7,8 +7,8 @@ allow_bold = true
 #clickable_url = true
 dynamic_title = true
 #font = Roboto Mono for Powerline 16
-font = WenQuanYi Micro Hei Mono 15
-font = LiterationMono Nerd Font 15
+font = WenQuanYi Micro Hei Mono 13
+font = LiterationMono Nerd Font 13
 #font = wqy-micohei 15
 #font = Hack Nerd Font 15
 #font = NotoMono Nerd Font 15 
@@ -94,7 +94,7 @@ color15 = #ffffff
 #active_background = #3f3f3f
 padding = 0
 border = #3f3f3f
-border_width = 0
+border_width = 1
 roundness = 0
 
 # vim: ft=dosini cms=#%s

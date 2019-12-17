@@ -70,7 +70,7 @@ alert = ${xrdb:color3:#222}
 ################################################################################
 
 [bar/mainbar-bspwm]
-monitor = DP1
+monitor = DP-1
 ;monitor-fallback = HDMI1
 width = 100%
 height = 23
@@ -135,6 +135,61 @@ tray-background = #3213213
 scroll-up = bspwm-desknext
 scroll-down = bspwm-deskprev
 
+[bar/mainbar-bspwm-2]
+monitor = eDP-1
+width = 100%
+height = 23
+radius = 15
+fixed-center = true
+bottom = true
+separator = 
+
+background = ${colors.background}
+foreground = ${colors.foreground}
+
+line-size = 2
+line-color = #f00
+
+wm-restack = bspwm
+override-redirect = false
+
+enable-ipc = true
+
+border-left-size = 10
+border-right-size = 10
+border-top-size = 1
+
+padding-left = 1
+padding-right = 1
+
+module-margin-left = 0
+module-margin-right = 0
+
+font-0 = "LiterationMono Nerd Font:size=11;2"
+font-1 = "UbuntuMono Nerd Font:size=14;3"
+font-2 = "Font Awesome 5 Free:style=Regular:pixelsize=10;1"
+font-3 = "Font Awesome 5 Free:style=Solid:pixelsize=10;1"
+font-4 = "Font Awesome 5 Brands:pixelsize=8;1"
+font-5 = "Noto Sans Symbols2:pixelsize=10;1"
+font-6 = "WenQuanYi Micro Hei:style=Regular:size=12"
+modules-left = bspwm-1 xwindow
+modules-center = player-mpris-tail 
+modules-right = pacman-updates bluetooth wireless-network cpu1 battery pavolume backlight-acpi date 
+
+tray-detached = false
+tray-offset-x = 0
+tray-offset-y = 0
+tray-position = right
+tray-padding = 2
+tray-maxsize = 20
+tray-scale = 1.0
+;tray-background = ${env:color0_alpha}
+tray-background = #3213213
+
+
+scroll-up = bspwm-desknext
+scroll-down = bspwm-deskprev
+
 ################################################################################
 ################################################################################
 ############                       MODULE BSPWM                     ############
@@ -156,7 +211,7 @@ reverse-scroll = true
 pin-workspaces = true
 
 ws-icon-0 = 1;
-ws-icon-1 = 2; 
+ws-icon-1 = 2; 
 ws-icon-2 = 3;
 ws-icon-3 = 4;
 ws-icon-4 = 5;

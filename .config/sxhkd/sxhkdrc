@@ -37,13 +37,17 @@ super + g
 #############
 
 # set the window state
-super + {d,shift + t,s,f}
+super + {d,t,s,f}
 	bspc node -t {tiled,pseudo_tiled,floating,fullscreen}
 
 # focus/swap
 # ==========
 
-# focus the node in the given direction
+# focus the next/previous node in the current desktop
+super + {_,shift + }c
+	bspc node -f {next,prev}.local
+
+# swap the node in the given direction
 super + {_,shift + }{Left,Down,Up,Right}
 	bspc node -{f,s} {west,south,north,east}
 super + {_,shift + }{h,j,k,l}

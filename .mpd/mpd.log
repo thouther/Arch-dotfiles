@@ -1150,3 +1150,222 @@ Dec 02 10:19 : config: option 'device' on line 32 was not recognized
 Dec 02 10:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
 Dec 02 10:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
 Dec 02 11:37 : client: [0] opened from local
+Dec 02 14:02 : player: played "/home/thouther/Music/carpenter-brut/trilogy/12 - hangem-all.mp3"
+Dec 02 14:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 02 14:40 : config: option 'device' on line 32 was not recognized
+Dec 02 14:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 02 14:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 02 14:42 : player: played "/home/thouther/Music/carpenter-brut/trilogy/12 - hangem-all.mp3"
+Dec 02 16:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 02 16:41 : config: option 'device' on line 32 was not recognized
+Dec 02 16:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 02 16:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 02 16:41 : client: [0] opened from local
+Dec 02 18:34 : player: played "/home/thouther/Music/carpenter-brut/trilogy/12 - hangem-all.mp3"
+Dec 03 00:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 03 00:07 : config: option 'device' on line 32 was not recognized
+Dec 03 00:07 : client: [0] opened from local
+Dec 03 00:11 : client: [0] closed
+Dec 03 00:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 03 00:11 : config: option 'device' on line 32 was not recognized
+Dec 04 02:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 04 02:27 : config: option 'device' on line 32 was not recognized
+Dec 03 18:50 : client: [0] opened from local
+Dec 03 21:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 03 21:58 : config: option 'device' on line 32 was not recognized
+Dec 03 21:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 03 21:59 : config: option 'device' on line 32 was not recognized
+Dec 03 22:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 03 22:00 : config: option 'device' on line 32 was not recognized
+Dec 03 22:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 03 22:26 : config: option 'device' on line 32 was not recognized
+Dec 03 22:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 03 22:46 : config: option 'device' on line 32 was not recognized
+Dec 03 23:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 03 23:02 : config: option 'device' on line 32 was not recognized
+Dec 03 23:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 03 23:34 : config: option 'device' on line 32 was not recognized
+Dec 03 23:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 03 23:37 : config: option 'device' on line 32 was not recognized
+Dec 03 23:42 : client: [0] opened from local
+Dec 03 23:44 : client: [0] closed
+Dec 04 00:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 04 00:12 : config: option 'device' on line 32 was not recognized
+Dec 04 00:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 04 00:22 : config: option 'device' on line 32 was not recognized
+Dec 04 00:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 04 00:23 : config: option 'device' on line 32 was not recognized
+Dec 04 00:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 04 00:24 : config: option 'device' on line 32 was not recognized
+Dec 04 00:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 04 00:25 : config: option 'device' on line 32 was not recognized
+Dec 04 00:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 04 00:40 : config: option 'device' on line 32 was not recognized
+Dec 04 00:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 04 00:42 : config: option 'device' on line 32 was not recognized
+Dec 04 00:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 04 00:47 : config: option 'device' on line 32 was not recognized
+Dec 04 11:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 04 11:27 : config: option 'device' on line 32 was not recognized
+Dec 04 11:28 : client: [0] opened from local
+Dec 04 12:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 04 12:59 : config: option 'device' on line 32 was not recognized
+Dec 04 13:02 : client: [0] opened from local
+Dec 04 21:32 : client: [0] closed
+Dec 04 21:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 04 21:32 : config: option 'device' on line 32 was not recognized
+Dec 04 22:30 : client: [0] opened from local
+Dec 05 12:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 05 12:22 : config: option 'device' on line 32 was not recognized
+Dec 05 12:35 : client: [0] opened from local
+Dec 05 12:35 : client: [0] closed
+Dec 06 00:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 06 00:02 : config: option 'device' on line 32 was not recognized
+Dec 06 17:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 06 17:11 : config: option 'device' on line 32 was not recognized
+Dec 06 17:15 : client: [0] opened from local
+Dec 07 04:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 07 04:51 : config: option 'device' on line 32 was not recognized
+Dec 06 22:28 : client: [0] opened from local
+Dec 06 22:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 06 22:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 06 22:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 06 22:34 : player: played "/home/thouther/Music/carpenter-brut/trilogy/01 - escape-from-midwich-valley.mp3"
+Dec 06 22:40 : player: played "/home/thouther/Music/carpenter-brut/trilogy/02 - disco-zombi-italia.mp3"
+Dec 06 22:44 : player: played "/home/thouther/Music/carpenter-brut/trilogy/03 - la-venice-bitch-80s.mp3"
+Dec 06 22:48 : player: played "/home/thouther/Music/carpenter-brut/trilogy/04 - wake-up-the-president.mp3"
+Dec 06 22:52 : player: played "/home/thouther/Music/carpenter-brut/trilogy/05 - 347-midnight-demons.mp3"
+Dec 06 22:57 : player: played "/home/thouther/Music/carpenter-brut/trilogy/06 - le-perv.mp3"
+Dec 07 01:12 : player: played "/home/thouther/Music/carpenter-brut/trilogy/07 - roller-mobster.mp3"
+Dec 07 13:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 07 13:44 : config: option 'device' on line 32 was not recognized
+Dec 07 13:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 07 13:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 07 13:48 : client: [0] opened from local
+Dec 08 00:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 08 02:47 : player: played "/home/thouther/Music/carpenter-brut/trilogy/07 - roller-mobster.mp3"
+Dec 08 12:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 08 12:26 : config: option 'device' on line 32 was not recognized
+Dec 08 12:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 08 12:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 08 13:11 : client: [0] opened from local
+Dec 08 22:59 : client: [0] closed
+Dec 09 00:42 : player: played "/home/thouther/Music/carpenter-brut/trilogy/07 - roller-mobster.mp3"
+Dec 09 11:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 09 11:18 : config: option 'device' on line 32 was not recognized
+Dec 09 11:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 09 11:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 09 11:20 : player: played "/home/thouther/Music/carpenter-brut/trilogy/07 - roller-mobster.mp3"
+Dec 09 11:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 09 11:20 : config: option 'device' on line 32 was not recognized
+Dec 09 11:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 09 11:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 09 11:21 : client: [0] opened from local
+Dec 09 18:06 : client: [0] closed
+Dec 09 21:57 : client: [1] opened from local
+Dec 09 23:04 : player: played "/home/thouther/Music/carpenter-brut/trilogy/07 - roller-mobster.mp3"
+Dec 09 23:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 09 23:11 : config: option 'device' on line 32 was not recognized
+Dec 09 23:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 09 23:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 09 23:59 : player: played "/home/thouther/Music/carpenter-brut/trilogy/07 - roller-mobster.mp3"
+Dec 09 23:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 09 23:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 09 23:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 09 23:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 09 23:59 : config: option 'device' on line 32 was not recognized
+Dec 10 00:43 : player: played "/home/thouther/Music/carpenter-brut/trilogy/07 - roller-mobster.mp3"
+Dec 10 14:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 10 14:26 : config: option 'device' on line 32 was not recognized
+Dec 10 14:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 10 14:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 10 23:38 : player: played "/home/thouther/Music/carpenter-brut/trilogy/07 - roller-mobster.mp3"
+Dec 10 23:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 10 23:38 : config: option 'device' on line 32 was not recognized
+Dec 10 23:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 10 23:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 10 23:41 : client: [0] opened from local
+Dec 10 23:41 : client: [0] closed
+Dec 10 23:41 : client: [1] opened from local
+Dec 10 23:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 00:09 : client: [1] closed
+Dec 11 00:09 : player: played "/home/thouther/Music/carpenter-brut/trilogy/10 - looking-for-tracy-tzu.mp3"
+Dec 11 00:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 00:09 : config: option 'device' on line 32 was not recognized
+Dec 11 00:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 00:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 00:12 : player: played "/home/thouther/Music/carpenter-brut/trilogy/10 - looking-for-tracy-tzu.mp3"
+Dec 11 00:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 00:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 00:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 00:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 00:12 : config: option 'device' on line 32 was not recognized
+Dec 11 01:33 : player: played "/home/thouther/Music/carpenter-brut/trilogy/10 - looking-for-tracy-tzu.mp3"
+Dec 11 20:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 20:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 20:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 20:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 20:47 : config: option 'device' on line 32 was not recognized
+Dec 11 23:55 : player: played "/home/thouther/Music/carpenter-brut/trilogy/10 - looking-for-tracy-tzu.mp3"
+Dec 11 23:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 23:55 : config: option 'device' on line 32 was not recognized
+Dec 11 23:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 11 23:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 12 00:49 : player: played "/home/thouther/Music/carpenter-brut/trilogy/10 - looking-for-tracy-tzu.mp3"
+Dec 12 12:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 12 12:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 12 12:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 12 12:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 12 12:16 : config: option 'device' on line 32 was not recognized
+Dec 13 00:03 : player: played "/home/thouther/Music/carpenter-brut/trilogy/10 - looking-for-tracy-tzu.mp3"
+Dec 13 11:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 13 11:02 : config: option 'device' on line 32 was not recognized
+Dec 13 11:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 13 11:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 13 20:59 : client: [0] opened from local
+Dec 14 11:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 14 11:33 : client: [0] closed
+Dec 14 14:15 : client: [1] opened from local
+Dec 15 02:08 : client: [1] closed
+Dec 15 02:56 : client: [2] opened from local
+Dec 15 23:02 : client: [2] closed
+Dec 15 23:02 : player: played "/home/thouther/Music/carpenter-brut/trilogy/10 - looking-for-tracy-tzu.mp3"
+Dec 15 23:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 15 23:02 : config: option 'device' on line 32 was not recognized
+Dec 15 23:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 15 23:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 16 01:31 : player: played "/home/thouther/Music/carpenter-brut/trilogy/10 - looking-for-tracy-tzu.mp3"
+Dec 16 11:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 16 11:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 16 11:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 16 11:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 16 11:00 : config: option 'device' on line 32 was not recognized
+Dec 16 11:00 : player: played "/home/thouther/Music/carpenter-brut/trilogy/10 - looking-for-tracy-tzu.mp3"
+Dec 16 11:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 16 11:00 : config: option 'device' on line 32 was not recognized
+Dec 16 11:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 16 11:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 16 12:50 : client: [0] opened from local
+Dec 16 21:41 : player: played "/home/thouther/Music/carpenter-brut/trilogy/10 - looking-for-tracy-tzu.mp3"
+Dec 16 21:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 16 21:42 : config: option 'device' on line 32 was not recognized
+Dec 16 21:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 16 21:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 16 21:42 : client: [0] opened from local
+Dec 16 21:42 : client: [0] closed
+Dec 16 21:42 : player: played "/home/thouther/Music/carpenter-brut/trilogy/10 - looking-for-tracy-tzu.mp3"
+Dec 16 21:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 16 21:42 : config: option 'device' on line 32 was not recognized
+Dec 16 21:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 16 21:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 16 21:45 : player: played "/home/thouther/Music/carpenter-brut/trilogy/10 - looking-for-tracy-tzu.mp3"
+Dec 16 21:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 16 21:45 : config: option 'device' on line 32 was not recognized
+Dec 16 21:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 16 21:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 16 21:46 : client: [0] opened from local
+Dec 17 01:43 : client: [0] closed
+Dec 17 01:43 : client: [1] opened from local
+Dec 17 18:42 : client: [1] closed
+Dec 17 18:42 : client: [2] opened from local
+Dec 17 18:55 : client: [2] closed

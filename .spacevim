@@ -1,114 +1,69 @@
-" Comment the following line if you don't want Vim and NeoVim to share the
-" same plugin download directory.
 let g:spacevim_plug_home = '~/.vim/plugged'
-
-" Uncomment the following line to override the leader key. The default value is space key "<\Space>".
 " let g:spacevim_leader = "<\Space>"
-
-" Uncomment the following line to override the local leader key. The default value is comma ','.
 " let g:spacevim_localleader = ','
-
-" Enable the existing layers in space-vim.
-" Refer to https://github.com/liuchengxu/space-vim/blob/master/layers/LAYERS.md for all available layers.
-let g:spacevim_layers = [
-      "\ 'fzf', 'better-defaults', 'which-key','ycmd',
-      \ 'fzf', 'better-defaults', 'ycmd', 'python',
-      \ 'airline', 'syntax-checking', 'ctrlp',
-      "\ 'ctrlp','syntax-checking', 'code-snippets',
-      \ ]
-
-" Uncomment the following line if your terminal(-emulator) supports true colors.
 " let g:spacevim_enable_true_color = 1
-
-
-" Uncomment the following if you have some nerd font installed.
 let g:spacevim_nerd_fonts = 1
 
-" If you want to have more control over the layer, try using Layer command.
-" if g:spacevim.gui
-  " Layer 'airline'
-" endif
+" Refer to https://github.com/liuchengxu/space-vim/blob/master/layers/LAYERS.md for all available layers.
+let g:spacevim_layers = [
+      \ 'fzf', 'better-defaults', 'ycmd', 'python',
+      \  'lightline','syntax-checking', 'ctrlp',
+      \ ]
 
-" Manage your own plugins.
-" Refer to https://github.com/junegunn/vim-plug for more detials.
 function! UserInit()
-
-  " Plug 'junegunn/seoul256.vim'
-  " Plug 'junegunn/vim-emoji'
 
   " ---- editing ----
   Plug 'tpope/vim-surround'
   Plug 'jiangmiao/auto-pairs'
-  " ------------------
-
   Plug 'tpope/vim-repeat'
   Plug 'tpope/vim-commentary'
-
-  " ---- airline Layer ----
-  " Plug 'vim-airline/vim-airline-themes'
-  " Plug 'vim-airline/vim-airline'
-  let g:airline#extensions#tabline#left_sep = ' '
-  let g:airline#extensions#tabline#left_alt_sep = '|'
-  let g:airline#extensions#tabline#formatter = 'default'
-  let g:airline_powerline_fonts = 1
-  let g:airline#extensions#wordcount#filetypes = 'entersomerandomgibberish'
-  let g:airline#extensions#tabline#enabled = 1
-  " ----------------------
-  "
-  "Plug 'flazz/vim-colorschemes'
-  "Plug 'felixhummel/setcolors.vim'
-
+  Plug 'scrooloose/nerdcommenter'
   Plug 'junegunn/vim-easy-align'
+  Plug 'godlygeek/tabular' " function like easy-align
+
+  " ---- lightline ----
+  Plug 'itchyny/lightline.vim'
+  Plug 'mengelbrecht/lightline-bufferline'
+  Plug 'bling/vim-bufferline'
+
+  " ---- interactive ----
   Plug 'liuchengxu/vim-clap'
+  Plug 'itchyny/calendar.vim'
+  " Plug 'junegunn/vim-emoji'
+  " Plug 'johngrib/vim-game-code-break'
+  " Plug 'wakatime/vim-wakatime'
 
-
-  " ---- better-motion ----
+  " ---- motion ----
   " Plug 'haya14busa/incsearch.vim'
   Plug 'easymotion/vim-easymotion'
   " Plug 'haya14busa/incsearch-easymotion.vim'
   " Plug 'justinmk/vim-sneak'
   Plug 'unblevable/quick-scope'
-  " ----------------------
 
-  " ----------- Markdown ------------
-    let g:markdown_syntax_conceal = 0
-  Plug 'godlygeek/tabular'
-  " Plug 'plasticboy/vim-markdown'
-  "  let g:vim_markdown_folding_disabled = 1
-
-
-
-  " Plug 'gabrielelana/vim-markdown'
-  "     let g:markdown_enable_spell_checking = 0
-  "     let g:markdown_enable_input_abbreviations = 1
-  "     let g:markdown_enable_conceal = 1
-  "     let g:markdown_enable_mappings = 1
-  Plug 'iamcco/markdown-preview.vim'
-  " Plug 'suan/vim-instant-markdown', {'for': 'markdown'}
-
-  Plug 'wakatime/vim-wakatime'
-  " ---------------------------------
-
-  " Plug 'ctrlpvim/ctrlp.vim'
+  " ---- css ----
   " Plug 'mattn/emmet-vim'
       "let g:user_emmet_install_global = 0
       "let g:user_emmet_leader_key=','
   " Plug 'jaxbot/browserlink.vim'
   Plug 'othree/csscomplete.vim'
 
-  " ---- file-manager ----
-  Plug 'scrooloose/nerdtree'
-    let g:NERDTreeMinimalUI = 1
-  Plug 'ryanoasis/vim-devicons'
-  " ----------------------
+  " ---- file-navigation ----
+  " Plug 'scrooloose/nerdtree'
+  " Plug 'ryanoasis/vim-devicons'
+  Plug 'francoiscabrol/ranger.vim'
+  " Plug 'vim-scripts/taglist.vim'
+  Plug 'universal-ctags/ctags'
+  Plug 'majutsushi/tagbar'
+  Plug 'epmatsw/ag.vim'
 
-  " ----------- Theme ------------
-  Plug 'whatyouhide/vim-gotham'
-  Plug 'chriskempson/base16-vim'
+  " ---- Theme ----
   Plug 'cocopon/iceberg.vim'
-  Plug 'arcticicestudio/nord-vim'
-  Plug 'dylanaraps/wal.vim'
-  Plug 'rakr/vim-two-firewatch'
+  " Plug 'whatyouhide/vim-gotham'
+  " Plug 'chriskempson/base16-vim'
+  " Plug 'arcticicestudio/nord-vim'
+  " Plug 'dylanaraps/wal.vim'
+  " Plug 'rakr/vim-two-firewatch'
+  " Plug 'junegunn/seoul256.vim'
 
   Plug 'Yggdroot/indentLine'
     let g:indentLine_enabled=1
@@ -117,18 +72,23 @@ function! UserInit()
     let g:indentLine_color_gui="#55606d"
     let g:indentLine_showFirstIndentLevel=0
     let g:indentLine_faster=1
+    
+  Plug 'luochen1990/rainbow'
+    let g:rainbow_active = 1 
 
-  " Plug 'stanangeloff/php.vim'
   Plug 'junegunn/goyo.vim'
-  " Plug 'vim-scripts/c.vim'
-  "    filetype plugin on
   Plug 'junegunn/limelight.vim'
 
-  " Plug 'johngrib/vim-game-code-break'
-
-  Plug 'itchyny/calendar.vim'
-
-" --------- Python ----------
+  " ---- Language ----
+  Plug 'gabrielelana/vim-markdown'
+      let g:markdown_syntax_conceal = 0
+      let g:markdown_enable_spell_checking = 0
+      let g:markdown_enable_input_abbreviations = 1
+      let g:markdown_enable_conceal = 1
+      let g:markdown_enable_mappings = 1
+  Plug 'iamcco/markdown-preview.vim'
+  " Plug 'vim-scripts/c.vim'
+  
   "Plug 'python-mode/python-mode', { 'for': 'python', 'branch': 'develop' }
   Plug 'jeetsukumaran/vim-pythonsense'
   let g:pymode_run_bind = '<leader>r'
@@ -138,8 +98,6 @@ function! UserInit()
   let g:pymode_rope_completion_bind = '<C-Space>'
   let g:pymode_python = 'python3'
 
-
-" --------- Golang ----------
   Plug 'fatih/vim-go',{'do':':GoInstallBinaries'}
     let g:go_highlight_types = 1
     let g:go_highlight_functions = 1
@@ -147,13 +105,8 @@ function! UserInit()
     let g:go_highlight_operators = 1
     let g:go_highlight_extra_types = 1
   Plug 'AndrewRadev/splitjoin.vim'
-  " ----------------------
 
-  " Plug 'Yggdroot/indentLine'
-  " Plug 'nathanaelkane/vim-indent-guides'
-  Plug 'luochen1990/rainbow'
-
-  " ---- code-snippets ----
+  " ---- Snippets ----
   Plug 'SirVer/ultisnips'
   Plug 'honza/vim-snippets'
   Plug 'ervandew/supertab'
@@ -167,43 +120,51 @@ function! UserInit()
     let g:UltiSnipsJumpForwardTrigger = "<C-j>"
     let g:UltiSnipsJumpBackwardTrigger = "<C-k>"
     "let g:UltiSnipsListSnippets="<c-h>"
-
-  " ---- vimwiki ----
- " Plug 'vimwiki/vimwiki'
-   let g:vimwiki_list = [{'path': '~/vimwiki/',
-                         \ 'syntax': 'markdown', 'ext': '.md'}]
-    nmap <Leader>wo <Plug>VimwikiIndex
-    nmap <Leader>wq <Plug>VimwikiUISelect
-
   endfunction
 
-" Override the default settings from space-vim as well as adding extras
 function! UserConfig()
 
-  " Uncomment the following line If you have installed the powerline fonts.
 
-  " css complete
-  autocmd FileType css setlocal omnifunc=csscomplete#CompleteCSS noci
-  " NERDTree remap
-  map <C-n> :NERDTreeToggle<CR>
-
+  " ---- Theme  ----
+  colorscheme iceberg
   "   Range:   233 (darkest) ~ 238 (lightest)
   "   Default: 235
   " let g:space_vim_dark_background = 233
   " color space-vim-dark
-  let g:airline_theme='base16'
-  colorscheme iceberg
+
+  " ---- lightline ----
+  let g:lightline.colorscheme="iceberg"
+  let g:lightline.tabline          = {'left': [['buffers']], 'right': [['close']]}
+  let g:lightline.component_expand = {'buffers': 'lightline#bufferline#buffers'}
+  let g:lightline.component_type   = {'buffers': 'tabsel'}
+  let g:lightline#bufferline#filename_modifier = ':t'
+
+  " ---- airline ----
+  let g:airline#extensions#tabline#left_sep = ' '
+  let g:airline#extensions#tabline#left_alt_sep = '|'
+  let g:airline#extensions#tabline#formatter = 'default'
+  let g:airline_powerline_fonts = 1
+  let g:airline#extensions#wordcount#filetypes = 'entersomerandomgibberish'
+  let g:airline#extensions#tabline#enabled = 1
+  
+  " ---- Setting  ----
   set termguicolors
+  set tags=tags
+  set showtabline=1
+  set laststatus=1
+  set guioptions-=e
+  set hidden
+  set cmdheight=1
+  "set noshowmode          "Disables mode in statusline in favor of airline
+  
+  " ---- Keybinding ----
+  nmap <C-b> :b 
+  nmap <F8> :TagbarToggle<CR>
+ 
+  " ---- css ----
+  autocmd FileType css setlocal omnifunc=csscomplete#CompleteCSS noci
+
   "hi ctermbg=NONE ctermfg=Green guibg=NONE guifg=Green
   " color scheme section
-  " colorscheme gotham256
-  "colorscheme base16-default-dark
-  "colorscheme nord
-  " airline themes
-  "let g:airline_theme='luna'
-  "let g:airline_theme='minimalist'
-  "highlight Normal guibg=NONE ctermbg=NONE
-
-  "set noshowmode          "Disables mode in statusline in favor of airline
-
+  " highlight Normal guibg=NONE ctermbg=NONE
   endfunction

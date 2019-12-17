@@ -12,13 +12,13 @@ Basic Setup for my Archlinux Desktop, including programs + dotfiles + script.
 - **Shell:** [zsh](https://www.zsh.org/) + [Oh-My-Zsh](http://https://github.com/robbyrussell/oh-my-zsh)
 - **StatuBar:** [Polybar](https://github.com/polybar/polybar)
 - **Text Editor:** [Vim](https://www.vim.org/) + [space-vim](http://https://github.com/liuchengxu/space-vim) + [Spacemacs](https://www.spacemacs.org/)
-- **Web Browser:** [Firefox](https://www.mozilla.org/en-US/firefox/) + [ShadowFox's userChrome.css](https://github.com/overdodactyl/ShadowFox)
+- **Web Browser:** [Firefox](https://www.mozilla.org/en-US/firefox/) + [ShadowFox](https://github.com/overdodactyl/ShadowFox) + [UserChrome-Tweak](https://github.com/Timvde/UserChrome-Tweaks)
 - **Mutiplexer** [tmux](https://github.com/tmux/tmux) + [Oh-My-Tmux](http://https://github.com/gpakosz/.tmux) + [tmuxp](http://https://github.com/tmux-python/tmuxp)
-- **File Manager:** [Ranger](https://github.com/ranger/ranger) + [devicons](http://https://github.com/alexanderjeurissen/ranger_devicons)
+- **File Manager:** [Ranger](https://github.com/ranger/ranger) + [Plugins](https://github.com/ranger/ranger/wiki/Plugins)
 - **Application Launcher:** [Rofi](https://github.com/davatorium/rofi) + [Themes](http://https://github.com/davatorium/rofi-themes)
 - **Notifications:** [dunst](https://github.com/dunst-project/dunst)
 - **System Monitor:** [gotop](https://github.com/cjbassi/gotop) + [htop](http://https://github.com/hishamhm/htop)
-- **Proxy:** [V2ray](http://https://www.v2ray.com/) / ~~[Shadowsocks-go](http://https://github.com/shadowsocks/shadowsocks-go)~~ + [proxychains-ng](https://github.com/rofl0r/proxychains-ng)
+- **Proxy:** [Clash](https://github.com/Dreamacro/clash) / [V2ray](http://https://www.v2ray.com/) / ~~[Shadowsocks-go](http://https://github.com/shadowsocks/shadowsocks-go)~~ + [proxychains-ng](https://github.com/rofl0r/proxychains-ng)
 - **Composite Manager:** [compton-tryone-git](https://github.com/tryone144/compton) + ~~[flashfocus](http://https://github.com/fennerm/flashfocus)~~
 - **Power Management:** [TLP](http://https://github.com/linrunner/TLP)
 - **Color Adjustment:** [redshift](https://github.com/jonls/redshift)
@@ -38,7 +38,7 @@ Basic Setup for my Archlinux Desktop, including programs + dotfiles + script.
 - **Screenshot:**  [maim](https://github.com/naelstrof/maim)
 - **Clock:** [tty-clock](https://github.com/xorg62/tty-clock)
 - **Disk Usage:** [ncdu](https://dev.yorhel.nl/ncdu)
-- **Visualizer:** [cava](https://github.com/karlstav/cava)
+- **Visualizer:** ~~[cava](https://github.com/karlstav/cava)~~
 - **Command Imporve:** [bat](https://github.com/danlynn/bat)
 - **Translate:** [translate-cli](https://github.com/soimort/translate-shell)
 - **Dictionary:** [sdcv](https://github.com/Dushistov/sdcv)
@@ -47,8 +47,10 @@ Basic Setup for my Archlinux Desktop, including programs + dotfiles + script.
 
 ### Entertainment Stuff ###
 
-- **Platform:** [Steam](https://wiki.archlinux.org/index.php/Steam)
+- **Platform:** [Steam](https://wiki.archlinux.org/index.php/Steam) + [ProtonDB](https://www.protondb.com) + [Lutris](https://lutris.net/)
 - **Retro:** [RetroArch](https://www.retroarch.com/)
 
 ### Screenshot ###
 ![screenshot1](https://i.loli.net/2019/09/29/Lza2HilId8eNhsg.png "opt title")
+![screenshot2](https://i.loli.net/2019/12/17/sxWpdMetqnNGSgB.png "opt title")
+![screenshot3](https://i.loli.net/2019/12/17/FDcPw1gLnkdpHM3.png "opt title")

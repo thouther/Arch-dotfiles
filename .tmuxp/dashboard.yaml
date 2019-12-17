@@ -8,7 +8,7 @@ windows:
   - sudo gotop -pab 
   - focus: 'true'
     shell_command: ncmpcpp
-  - tty-clock -b -s -c
+  - tty-clock -b -s -c -D
   - htop
   start_directory: /home/thouther
   window_name: zsh
